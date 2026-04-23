@@ -1,0 +1,1922 @@
+[
+  {
+    "qid": "hpqa_6529",
+    "difficulty": "easy",
+    "question": "What family are the genus' Sinofranchetia and Stauntonia from?",
+    "gold_answer": "a genus of flowering plant in the Lardizabalaceae family",
+    "context": [
+      {
+        "title": "Stauntonia",
+        "text": "Stauntonia is a genus of flowering plant in the Lardizabalaceae family.  It is named after George Staunton, who brought it to Britain from China in the 19th Century."
+      },
+      {
+        "title": "Sinofranchetia",
+        "text": "Sinofranchetia is a genus of flowering plant in the Lardizabalaceae family.  It contains a single species, Sinofranchetia chinensis."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_1155",
+    "difficulty": "easy",
+    "question": "Are Leopold Lummerstorfer and Valeria Sarmiento both authors?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Leopold Lummerstorfer",
+        "text": "Leopold Lummerstorfer (born 1968 in Gramastetten, Austria) is an Austrian film director, author and producer.  He resides in Vienna and near Kapuvár."
+      },
+      {
+        "title": "Valeria Sarmiento",
+        "text": "Valeria Sarmiento (born 29 October 1948) is a Chilean film editor, director and screenwriter.  She has worked both in film and television.  She has directed 19 feature films and documentaries since 1972.  Her debut feature \"Notre mariage\" (1984) was a Grand Prix winner for Best New Director at the San Sebastián International Film Festival and her 1991 film \"Amelia Lópes O'Neill\" was entered into the 41st Berlin International Film Festival.  She is the widow of Chilean film director Raúl Ruiz with whom she worked for decades as regular collaborator, editor and writer.  She has also edited films for Luc Moullet, Robert Kramer and Ventura Pons and is a Guggenheim Fellow (1988).  Her film \"Lines of Wellington\" competed for the Golden Lion at the 69th Venice International Film Festival."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0289",
+    "difficulty": "easy",
+    "question": "Which came to market first, \"Hey Pa! There's a Goat on the Roof\" or \"Poleconomy\"",
+    "gold_answer": "Hey Pa! There's a Goat on the Roof",
+    "context": [
+      {
+        "title": "Hey Pa! There's a Goat on the Roof",
+        "text": "Hey Pa!  There's a Goat on the Roof was a children's board game issued by Parker Brothers in 1966."
+      },
+      {
+        "title": "Poleconomy",
+        "text": "Poleconomy is a board game invented by New Zealander Bruce E. Hatherley and first published in 1980.  It is similar to \"Monopoly\" but the board is divided into companies rather than properties.  Players compete to acquire properties and investments through stylized economic and political activity.  The playing time is set by agreement from all players, e.g. 2 hours, and the winner is determined by the monetary sum of all player cash, companies, insurance or other assets.  The game can also end when there are no more companies, advertisements in the bank or bonds in the treasury.  Another objective of the game is \"to teach players some of the fundamentals of economics, and the ways in which the economy and the government interact.\"  Different editions were published for several different countries.  The name \"Poleconomy\" is a portmanteau of \"politics\" and \"economy\"."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_2795",
+    "difficulty": "easy",
+    "question": "Who was older when they died, Teinosuke Kinugasa or Don O. Newland",
+    "gold_answer": "Teinosuke Kinugasa",
+    "context": [
+      {
+        "title": "Don O. Newland",
+        "text": "Don Oliver Newland (1896–1951) was an American film director and producer whose career consisted largely of itinerant work.  From the 1920s until his death, he traveled to cities throughout the United States making films that employed local citizens as stars and extras.  Using a standard script, Newland personalized each film according to its location – \"Belvidere's Hero\", \"Staunton's Hero\", \"Janesville's Hero\", \"Huntingdon's Hero\", \"Tyrone's Hero\", \"Wilmington's Hero\", and so on."
+      },
+      {
+        "title": "Teinosuke Kinugasa",
+        "text": "Teinosuke Kinugasa (衣笠 貞之助 , Kinugasa Teinosuke ) (1 January 1896 – 26 February 1982) was a Japanese actor and film director.  He was born in Kameyama, Mie Prefecture and died in Kyoto.  Kinugasa won the 1954 Palme d'or at Cannes for \"Jigokumon\" (\"The Gate of Hell\")."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_2473",
+    "difficulty": "easy",
+    "question": "Are Trent Edwards and Lucy Saroyan both football players?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Trent Edwards",
+        "text": "Trent Addison Edwards (born October 30, 1983) is a former American football quarterback.  He played college football at Stanford and was drafted by the Buffalo Bills in the third round of the 2007 NFL Draft."
+      },
+      {
+        "title": "Lucy Saroyan",
+        "text": "Lucy Saroyan (January 17, 1946 – April 11, 2003) was an American actress and photographer."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_2303",
+    "difficulty": "easy",
+    "question": "Are University of Virginia and Massachusetts Institute of Technology in the same country?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "University of Virginia",
+        "text": "The University of Virginia (U.Va.  or UVA), frequently referred to simply as Virginia, is a public research university and the flagship for the Commonwealth of Virginia.  Founded in 1819 by Declaration of Independence author Thomas Jefferson, UVA is known for its historic foundations, student-run honor code, and secret societies."
+      },
+      {
+        "title": "Massachusetts Institute of Technology",
+        "text": "The Massachusetts Institute of Technology (MIT) is a private research university in Cambridge, Massachusetts.  It is often ranked as one of the world's most prestigious universities."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_1452",
+    "difficulty": "easy",
+    "question": "Which famous mine was in service first, the Salmita Mine or the Kanichee Mine?",
+    "gold_answer": "Kanichee Mine",
+    "context": [
+      {
+        "title": "Salmita Mine",
+        "text": "The Salmita Mine was a gold producer in the Northwest Territories, Canada during 1983 to 1987.  The deposit was first discovered in 1945 and underground exploration was carried out in 1951-1952.  It was reactivated for exploration by Giant Yellowknife Mines Limited in 1975 and entered production in 1983.  They used the old camp and milling plant of the abandoned Tundra Mine, located a few kilometres to the south.  The mine produced 179,906 troy ounces (5596 kg) of gold from the milling of 238,177 tons of ore."
+      },
+      {
+        "title": "Kanichee Mine",
+        "text": "The Kanichee Mine, also less commonly known as the Ajax Mine, is an abandoned base metal and precious metal mine, located in the Temagami region of northeastern Ontario, Canada.  It is near the small unincorporated community of Temagami North, accessed by the Kanichee Mine Road from Highway 11.  The Kanichee Mine zone has been explored and mined discontinuously from as early as 1910.  During the 20th century, it operated and closed down at least three times, with the most recent being from 1973 to 1976.  To date, the discontinuous operation of Kanichee Mine has produced 4.2 million pounds of metal."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_1066",
+    "difficulty": "easy",
+    "question": "What occupation did Nicholas Christopher and Roger Ebert share?",
+    "gold_answer": "author",
+    "context": [
+      {
+        "title": "Roger Ebert",
+        "text": "Roger Joseph Ebert ( ; June 18, 1942 – April 4, 2013) was an American film critic and historian, journalist, screenwriter, and author.  He was a film critic for the \"Chicago Sun-Times\" from 1967 until his death in 2013.  In 1975, Ebert became the first film critic to win the Pulitzer Prize for Criticism."
+      },
+      {
+        "title": "Nicholas Christopher",
+        "text": "Nicholas Christopher (born 1951) is an American novelist, poet and critic, the author of sixteen books: six novels, eight volumes of poetry, a critical study of film noir, and a novel for children."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_6925",
+    "difficulty": "easy",
+    "question": "Do Tropical Fish Hobbyist and Curve cover the same topic?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Curve (magazine)",
+        "text": "Curve is a lesbian magazine published in the United States.  It covers news, politics, social issues, and includes celebrity interviews and stories on entertainment, pop culture, style, travel, and a website that hosts an internet forum focusing on lesbian issues, active since 2000."
+      },
+      {
+        "title": "Tropical Fish Hobbyist",
+        "text": "Tropical Fish Hobbyist Magazine (abbreviated as \"TFH Magazine\") is a bi-monthly magazine geared to hobbyist keepers of tropical fish, with news and information on a variety of topics including: Care & Maintenance, Aquascaping, Husbandry, Health and Breeding, Species Reports, Aquarium Technology, Aquarium Science, Exploration & Collecting."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_5575",
+    "difficulty": "easy",
+    "question": "Were both Roger Donaldson and André Cayatte french filmmakers?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Roger Donaldson",
+        "text": "Roger Donaldson (born 15 November 1945) is an Australian-born New Zealand film director, producer and writer whose films include \"The World's Fastest Indian\" (2005), acclaimed 1981 relationship drama \"Smash Palace\", and a run of titles shot in the United States, including the Kevin Costner films \"No Way Out\" (1987) and \"Thirteen Days\" (2000), and the 1997 disaster film \"Dante's Peak\"."
+      },
+      {
+        "title": "André Cayatte",
+        "text": "André Cayatte (3 February 1909, Carcassonne – 6 February 1989, Paris) was a French filmmaker and lawyer, who became known for his films centering on themes of crime, justice, and moral responsibility."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0911",
+    "difficulty": "easy",
+    "question": "Which genus has more species, Apium or Elodea?",
+    "gold_answer": "Apium",
+    "context": [
+      {
+        "title": "Apium",
+        "text": "Apium (including celery and the marshworts) is a genus of about 20 species of flowering plants in the family Apiaceae, with a subcosmopolitan distribution in Europe, Asia, Africa, South America and Australia.  They are medium to tall biennials or perennials growing up to 1 m high in the wet soil of marshes and salt marshes, and have pinnate to bipinnate leaves and small white flowers in compound umbels.  Some species are edible, notably \"Apium graveolens\", which includes the commercially important vegetables celery, celeriac and Chinese celery. \" Apium bermejoi\" from the island of Menorca is one of the rarest plants in Europe, with fewer than 100 individuals left."
+      },
+      {
+        "title": "Elodea",
+        "text": "Elodea is a genus of 6 species of aquatic plants often called the waterweeds described as a genus in 1803.  \"Elodea\" is native to North and South America and is also widely used as aquarium vegetation.  It lives in fresh water."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_6035",
+    "difficulty": "easy",
+    "question": "Are the writing from Maurice Level and Alice Hoffman focused on different audieces?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Alice Hoffman",
+        "text": "Alice Hoffman (born March 16, 1952) is an American novelist and young-adult and children's writer, best known for her 1995 novel \"Practical Magic\", which was adapted for a 1998 film of the same name.  Many of her works fall into the genre of magic realism and contain elements of magic, irony, and non-standard romances and relationships."
+      },
+      {
+        "title": "Maurice Level",
+        "text": "Maurice Level (August 29, 1875 – April 15, 1926) was a French writer of fiction and drama who specialized in short stories of the macabre which were printed regularly in the columns of Paris newspapers and sometimes staged by \"le Théâtre du Grand-Guignol\", the repertory company in Paris's Pigalle district devoted to melodramatic productions which emphasized blood and gore."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_4249",
+    "difficulty": "easy",
+    "question": "Are Benjamin Britten and Béla Bartók from the same country?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Béla Bartók",
+        "text": "Béla Viktor János Bartók ( ; ] ; 25 March 1881 – 26 September 1945) was a Hungarian composer, pianist and an ethnomusicologist.  He is considered one of the most important composers of the 20th century; he and Liszt are regarded as Hungary's greatest composers .  Through his collection and analytical study of folk music, he was one of the founders of comparative musicology, which later became ethnomusicology."
+      },
+      {
+        "title": "Benjamin Britten",
+        "text": "Edward Benjamin Britten, Baron Britten {'1': \", '2': \", '3': \", '4': \"} (22 November 1913 – 4 December 1976) was an English composer, conductor and pianist.  He was a central figure of 20th-century British classical music, with a range of works including opera, other vocal music, orchestral and chamber pieces.  His best-known works include the opera \"Peter Grimes\" (1945), the \"War Requiem\" (1962) and the orchestral showpiece \"The Young Person's Guide to the Orchestra\" (1945)."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0352",
+    "difficulty": "easy",
+    "question": "Are both Rutgers University and Carnegie Mellon University located in America?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Rutgers University",
+        "text": "Rutgers, The State University of New Jersey ( ), commonly referred to as Rutgers University, Rutgers, or RU, is an American public research university and the largest institution for higher education in New Jersey."
+      },
+      {
+        "title": "Carnegie Mellon University",
+        "text": "Carnegie Mellon University (Carnegie Mellon or CMU or ) is a private research university in Pittsburgh, Pennsylvania."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0337",
+    "difficulty": "easy",
+    "question": "Did Franki Valli sing with Hellogoodbye or The Four Seasons?",
+    "gold_answer": "The Four Seasons",
+    "context": [
+      {
+        "title": "The Four Seasons (band)",
+        "text": "The Four Seasons is an American rock and pop band that became internationally successful in the 1960s and 1970s.  The Vocal Group Hall of Fame has stated that the group was the most popular rock band before the Beatles.  Since 1970, they have also been known at times as Frankie Valli and the Four Seasons.  In 1960, the group known as the Four Lovers evolved into the Four Seasons, with Frankie Valli as the lead singer, Bob Gaudio (formerly of the Royal Teens) on keyboards and tenor vocals, Tommy DeVito on lead guitar and baritone vocals, and Nick Massi on electric bass and bass vocals."
+      },
+      {
+        "title": "Hellogoodbye",
+        "text": "Hellogoodbye (sometimes styled as hellogoodbye) is a pop rock band that was formed in Huntington Beach, California in 2001 by singer Forrest Kline.  They were signed to Drive-Thru Records and released their first full-length album \"Zombies!  Aliens!  Vampires!  Dinosaurs! \" in 2006, in addition to their previously released EP \"Hellogoodbye\" and DVD \"OMG HGB DVD ROTFL\".  In 2010, the band released \"Would It Kill You? \" on their label Wasted Summer Records.  The album was released in the United Kingdom and Europe by LAB Records on the 14 March 2011.  Hellogoodbye released their third album, Everything is Debatable, on October 29, 2013, while touring as the opening act for Paramore's The Self-Titled Tour."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0989",
+    "difficulty": "easy",
+    "question": "Which film is newer, The Apple Dumpling Gang or Heavyweights?",
+    "gold_answer": "Heavyweights",
+    "context": [
+      {
+        "title": "The Apple Dumpling Gang (film)",
+        "text": "The Apple Dumpling Gang is a 1975 American comedy-western film produced by Walt Disney Productions about a slick gambler named Russell Donovan (Bill Bixby) who is duped into taking care of a group of orphans who eventually strike gold during the California Gold Rush."
+      },
+      {
+        "title": "Heavyweights",
+        "text": "Heavyweights is a 1995 American comedy-drama film directed by Steven Brill and written by Brill with Judd Apatow.  The film centers around a fat camp for kids that is taken over by a fitness guru named Tony Perkis (Ben Stiller)."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_2256",
+    "difficulty": "easy",
+    "question": "Were both Prince and Patty Jenkins have been inducted into the Rock and Roll Hall of Fame?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Prince (musician)",
+        "text": "Prince Rogers Nelson (June 7, 1958 – April 21, 2016) was an American singer-songwriter, multi-instrumentalist, and record producer.  He was a musical innovator who was known for his eclectic work, flamboyant stage presence, extravagant dress and makeup, and wide vocal range.  His music integrates a wide variety of styles, including funk, rock, R&B, new wave, soul, psychedelia, and pop.  He has sold over 100 million records worldwide, making him one of the best-selling music artists of all time.  He won seven Grammy Awards, an American Music Award, a Golden Globe Award, and an Academy Award for the film \"Purple Rain\".  He was inducted into the Rock and Roll Hall of Fame in 2004, his first year of eligibility."
+      },
+      {
+        "title": "Patty Jenkins",
+        "text": "Patricia Lea Jenkins (born July 24, 1971) is an American film director and screenwriter.  She is known for directing \"Monster\" (2003) and \"Wonder Woman\" (2017)."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_2379",
+    "difficulty": "easy",
+    "question": "Does Il trovatore have less acts than La rondine",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "La rondine",
+        "text": "La rondine (\"The Swallow\") is an opera in three acts by Giacomo Puccini to an Italian libretto by Giuseppe Adami, based on a libretto by Alfred Maria Willner and .  It was first performed at the Grand Théâtre de Monte Carlo (or the Théâtre du Casino) in Monte Carlo on 27 March 1917."
+      },
+      {
+        "title": "Il trovatore",
+        "text": "Il trovatore (] ; Italian for \"The Troubadour\") is an opera in four acts by Giuseppe Verdi to an Italian libretto largely written by Salvadore Cammarano, based on the play \"El trovador\" (1836) by Antonio García Gutiérrez.  It was Gutiérrez's most successful play, one which Verdi scholar Julian Budden describes as \"a high flown, sprawling melodrama flamboyantly defiant of the Aristotelian unities, packed with all manner of fantastic and bizarre incident.\""
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_5130",
+    "difficulty": "easy",
+    "question": "Which is farther west, Sheridan County, Montana or Chandra Taal?",
+    "gold_answer": "Sheridan County",
+    "context": [
+      {
+        "title": "Chandra Taal",
+        "text": "Chandra Taal (meaning the \"Lake of the Moon\"), or Chandra Tal is situated in the Spiti part of the Lahul and Spiti district of Himachal Pradesh (India).  The name of the lake originates from its crescent shape.  It is situated at an altitude of about 4300 m in the Himalayas.  Mountains of scree overlook the lake on one side, and a magnificent cirque presents a view on the other.  Chandra Taal is a popular destination for trekkers and campers.  The lake is accessible on foot from Batal as well as from Kunzum Pass from late May to early October.  There is also a motorable road available till a parking made 2km before the lake.  Stay options are available 5km before the lake on prebooking.  The road from Kunzum Pass is accessible only on foot, and it is about 8 km from Chandra Taal.  Suraj Tal is also accessible Chandra Taal, 30 km away.  Vast meadows on the banks of the lake are the camping sites.  During springtime, these meadows are carpeted with hundreds of kinds of wildflowers."
+      },
+      {
+        "title": "Sheridan County, Montana",
+        "text": "Sheridan County is a county located in the U.S. state of Montana.  As of the 2010 census, the population was 3,384.  Its county seat is Plentywood.  Its northern boundary is the Canada–United States border south of Saskatchewan."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_6132",
+    "difficulty": "easy",
+    "question": "what species of plants are Chamelaucium and Vanilla derived from?",
+    "gold_answer": "flowers",
+    "context": [
+      {
+        "title": "Vanilla",
+        "text": "Vanilla is a flavoring derived from orchids of the genus \"Vanilla\", primarily from the Mexican species, flat-leaved vanilla (\"V. planifolia\").  The word \"vanilla\", derived from \"vainilla\" , the diminutive of the Spanish word \"vaina\" (\"vaina\" itself meaning sheath or pod), is translated simply as \"little pod\".  Pre-Columbian Mesoamerican people cultivated the vine of the vanilla orchid, called \"tlilxochitl\" by the Aztecs.  Spanish conquistador Hernán Cortés is credited with introducing both vanilla and chocolate to Europe in the 1520s."
+      },
+      {
+        "title": "Chamelaucium",
+        "text": "Chamelaucium, also known as waxflower, is a genus of shrubs endemic to south western Western Australia.  They belong to the myrtle family Myrtaceae and have flowers similar to those of the tea-trees (\"Leptospermum\").  The most well-known species is the Geraldton Wax, \"Chamelaucium uncinatum\", which is cultivated widely for its large attractive flowers."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0309",
+    "difficulty": "easy",
+    "question": "Are Staten Island Catapult and This Is Elvis both documentaries?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Staten Island Catapult",
+        "text": "The Staten Island Catapult is a 2005 documentary about a disgruntled commuter and his proposal to build a catapult that launches individuals from Staten Island to Downtown Manhattan in 5 minutes.  The film was written and directed by independent filmmaker Gregorio Smith."
+      },
+      {
+        "title": "This Is Elvis",
+        "text": "This Is Elvis is a 1981 documentary film written and directed by Andrew Solt and Malcolm Leo, based on the life of Elvis Presley.  It combined archival footage with reenactments, and voice-over narration by pop singer Ral Donner, imitating Presley's speaking voice.  It was screened out of competition at the 1981 Cannes Film Festival.  The film grossed $2 million at the box office in the U.S. and Canada, ranking #92 for 1981."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_5718",
+    "difficulty": "easy",
+    "question": "Who brewed the first espresso coffee in space, Patrick Baudry or Samantha Cristoforetti?",
+    "gold_answer": "Samantha Cristoforetti",
+    "context": [
+      {
+        "title": "Samantha Cristoforetti",
+        "text": "Samantha Cristoforetti (] ; born 26 April 1977 in Milan) is an Italian European Space Agency astronaut, Italian Air Force pilot and engineer.  She holds the record for the longest uninterrupted spaceflight of a European astronaut (199 days, 16 hours), and until June 2017 held the record for the longest single space flight by a woman until this was broken by Peggy Whitson.  She is also the first Italian woman in space.  Samantha Cristoforetti is also known as the first person who brewed an espresso coffee in space."
+      },
+      {
+        "title": "Patrick Baudry",
+        "text": "Patrick Pierre Roger Baudry (born March 6, 1946 in Cameroon), is a retired Lieutenant Colonel in the French Air Force and a former CNES astronaut.  In 1985, he became the second French citizen in space, after Jean-Loup Chrétien, when he flew aboard NASA's Space Shuttle mission STS-51-G."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_2097",
+    "difficulty": "easy",
+    "question": "Which genus has more species in it, Othonna or Stangeria?",
+    "gold_answer": "Othonna",
+    "context": [
+      {
+        "title": "Stangeria",
+        "text": "Stangeria eriopus is a cycad endemic to southern Africa It is the sole species in the genus Stangeria, most closely related to the Australian genus \"Bowenia\", with which it forms the family Stangeriaceae.  IUCN Red List Category & Criteria: Vulnerable, mainly due to habitat loss and over-exploiting for traditional medicine.  It is listed under CITES Appendix I / EU Annex A, and CITES prohibits international trade in specimens of this species except when the purpose of the import is not commercial, for instance for scientific research."
+      },
+      {
+        "title": "Othonna",
+        "text": "Othonna is a genus of African plants in the sunflower family."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_7299",
+    "difficulty": "easy",
+    "question": "Between Aspidistra and Cyrtanthus, which genus of plant belongs to the Subfamily Amaryllidoideae?",
+    "gold_answer": "Cyrtanthus",
+    "context": [
+      {
+        "title": "Cyrtanthus",
+        "text": "Cyrtanthus is a genus of perennial, herbaceous and bulbous plants in the family Amaryllidaceae, subfamily Amaryllidoideae."
+      },
+      {
+        "title": "Aspidistra",
+        "text": "Aspidistra is a genus of flowering plants in the family Asparagaceae, subfamily Nolinoideae, native to eastern and southeastern Asia, particularly China and Vietnam.  They grow in shade under trees and shrubs.  Their leaves arise more or less directly from ground level, where their flowers also appear.  The number of species known has increased considerably from the 1980s onwards, with around 100 accepted as of July 2013 . \" Aspidistra elatior\" is common worldwide as a foliage house plant that is very tolerant of neglect.  It and other species can also be grown in shade outside, where they are generally hardy to -5 C ."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_6659",
+    "difficulty": "easy",
+    "question": "IS Universidad de Oriente part of the same public university system as California State University, Dominguez Hills?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Universidad de Oriente",
+        "text": "The University of Oriente Venezuela (Spanish: \"Universidad de Oriente Venezuela\", UDO ) is one of the most important universities of Venezuela, located in Eastern Venezuela."
+      },
+      {
+        "title": "California State University, Dominguez Hills",
+        "text": "California State University, Dominguez Hills (also known as CSUDH, Dominguez Hills, or Cal State Dominguez Hills) is a public university within the 23-school California State University (CSU) system.  It is located in the city of Carson, California in the South Bay region of Los Angeles County and was founded in 1960."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_7123",
+    "difficulty": "easy",
+    "question": "For which film did the Director team with NASA scientists, Aliens of the Deep or Poetry in Motion?",
+    "gold_answer": "Aliens of the Deep",
+    "context": [
+      {
+        "title": "Aliens of the Deep",
+        "text": "Aliens of the Deep is a 2005 documentary film, directed in part by James Cameron alongside fellow cameraman and friend Steven Quale, who would go on to direct \"Final Destination 5\" six years later, and filmed in the IMAX 3D format.  It was produced by Walden Media and Walt Disney Pictures.  Cameron teams with NASA scientists to explore the Mid-Ocean Ridges, submerged chains of mountains in the Atlantic and Pacific oceans that are home to some of the planet's more unusual forms of life."
+      },
+      {
+        "title": "Poetry in Motion (film)",
+        "text": "Poetry in Motion is a 1982 Canadian documentary film directed by Ron Mann featuring contemporary North American poetry and music.  Featured are some of the Black Mountain poets, Beats, minimalist poets, and avant-garde poets.  It was released in theaters, later being distributed on VHS, LaserDisc, and DVD.  An extended CD-ROM version was also released."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_4210",
+    "difficulty": "easy",
+    "question": "Which opera has more acts, Don Quichotte or Tosca?",
+    "gold_answer": "Don Quichotte",
+    "context": [
+      {
+        "title": "Tosca",
+        "text": "Tosca (] ) is an opera in three acts by Giacomo Puccini to an Italian libretto by Luigi Illica and Giuseppe Giacosa.  It premiered at the Teatro Costanzi in Rome on 14 January 1900.  The work, based on Victorien Sardou's 1887 French-language dramatic play, \"La Tosca\", is a melodramatic piece set in Rome in June 1800, with the Kingdom of Naples's control of Rome threatened by Napoleon's invasion of Italy.  It contains depictions of torture, murder and suicide, as well as some of Puccini's best-known lyrical arias."
+      },
+      {
+        "title": "Don Quichotte",
+        "text": "Don Quichotte (\"Don Quixote\") is an opera in five acts by Jules Massenet to a French libretto by Henri Caïn.  It was first performed on 19 February 1910 at the Opéra de Monte-Carlo."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_2276",
+    "difficulty": "easy",
+    "question": "Who has released more solo albums, Nick Carter or Brady Seals?",
+    "gold_answer": "Brady Seals",
+    "context": [
+      {
+        "title": "Brady Seals",
+        "text": "Brady Seals (born March 29, 1969) is an American country music artist.  He is the cousin of Jim Seals (of Seals & Crofts) and Dan Seals and Johnny Duncan, the nephew of Troy Seals, and the husband of former BNA Records recording artist Lisa Stewart.  Seals made his debut in 1988 as co-lead vocalist and keyboardist in the sextet Little Texas, with whom he recorded until his departure in late 1994.  Between then and 2002, he recorded as a solo singer, releasing three studio albums and charting in the Top 40 on the country charts with \"Another You, Another Me\".  In 2002, Seals formed a quartet called Hot Apple Pie, in which he has recorded one studio album and charted three singles.  A fourth solo album, \"Play Time\", was released in 2009 via Star City."
+      },
+      {
+        "title": "Nick Carter (musician)",
+        "text": "Nickolas Gene \"Nick\" Carter (born January 28, 1980) is an American singer, songwriter, actor, and dancer.  He is best known as a member of the pop group the Backstreet Boys.  As of 2015, Carter has released three solo albums, \"Now or Never\", \"I'm Taking Off\" and \"All American\" during breaks between Backstreet Boys schedules, and a collaboration with Jordan Knight titled \"Nick & Knight\".  He has made occasional television appearances and starred in his own reality shows, \"House of Carters\" and \"I (Heart) Nick Carter\".  He gained fame in the mid 1990s and early 2000s as a teen idol.  He is also the older brother of singer Aaron Carter and the late Leslie Carter."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_4521",
+    "difficulty": "easy",
+    "question": "Which band was formed at an earlier date, Unwritten Law or Jon Spencer Blues Explosion?",
+    "gold_answer": "Unwritten Law",
+    "context": [
+      {
+        "title": "Jon Spencer Blues Explosion",
+        "text": "The Jon Spencer Blues Explosion is an American alternative rock trio, formed in 1991 and based in New York City, New York.  The band consists of Judah Bauer on guitar, backing vocals, harmonica and occasional lead vocals, Russell Simins on drums and Jon Spencer on vocals, guitar and theremin.  Their musical style is largely rooted in rock and roll although it draws influences from punk, blues, garage, rockabilly, soul, noise rock, rhythm and blues and hip hop.  They have released nine official studio albums, collaborative records with Dub Narcotic Sound System and R.L. Burnside as well as numerous live, singles, out-take albums, compilations, remix albums and, in 2010, a series of expanded reissues."
+      },
+      {
+        "title": "Unwritten Law",
+        "text": "Unwritten Law is an American rock band formed in 1990 in Poway, California They have released seven full-length studio albums and have toured internationally, including performances on the Warped Tour.  They are notable for their singles \"Seein' Red\" and \"Save Me (Wake Up Call),\" both of which entered the top 5 in the US Modern Rock charts.  Their sixth studio album, \"Swan\", was released March 29, 2011."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_6022",
+    "difficulty": "easy",
+    "question": "Who won more Grand Slam doubles titles, Tony Roche or Jamie Murray?",
+    "gold_answer": "Anthony Dalton Roche",
+    "context": [
+      {
+        "title": "Tony Roche",
+        "text": "Anthony Dalton Roche, AO MBE (born 17 May 1945) is a former professional Australian tennis player, native of Tarcutta.  He played junior tennis in the New South Wales regional city of Wagga Wagga.  He won one Grand Slam singles title and thirteen Grand Slam doubles titles, and was ranked as high as World No. 2 by Lance Tingay of \"The Daily Telegraph\" in 1969.  He also coached multi-Grand Slam winning World No. 1s, Ivan Lendl, Patrick Rafter, Roger Federer, Lleyton Hewitt and former World No. 4, Jelena Dokic."
+      },
+      {
+        "title": "Jamie Murray",
+        "text": "Jamie Robert Murray, {'1': \", '2': \", '3': \", '4': \"} (born 13 February 1986) is a British professional tennis player from Scotland.  He is a five-time Grand Slam doubles winner and a Davis Cup champion, currently the world No. 11 doubles player, and a former doubles world No. 1.  Murray is the elder brother of Britain's world No. 3 singles tennis player Andy Murray."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_2832",
+    "difficulty": "easy",
+    "question": "Which mathematician worked with algebraic geometry instead of probability theory, Askold Khovanskii or Andrey Kolmogorov?",
+    "gold_answer": "Askold Georgievich Khovanskii",
+    "context": [
+      {
+        "title": "Andrey Kolmogorov",
+        "text": "Andrey Nikolaevich Kolmogorov (Russian: Андрей Николаевич Колмогоров ; ] , 25 April 1903 – 20 October 1987) was a 20th-century Soviet mathematician who made significant contributions to the mathematics of probability theory, topology, intuitionistic logic, turbulence, classical mechanics, algorithmic information theory and computational complexity."
+      },
+      {
+        "title": "Askold Khovanskii",
+        "text": "Askold Georgievich Khovanskii (Russian: Аскольд Георгиевич Хованский ; born 3 June 1947, Moscow) is a Russian and Canadian mathematician currently a professor of mathematics at the University of Toronto, Canada.  His areas of research are algebraic geometry, commutative algebra, singularity theory, differential geometry and differential equations. His research is in the development of the theory of toric varieties and Newton polyhedra in algebraic geometry.  He is also the inventor of the theory of fewnomials."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0048",
+    "difficulty": "easy",
+    "question": "Are Ferocactus and Silene both types of plant?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Silene",
+        "text": "Silene is a genus of flowering plants in the family Caryophyllaceae.  Containing approximately 700 species, it is the largest genus in the family.  Common names include campion (which is shared with the related genus \"Lychnis\") and catchfly.  Many \"Silene\" species are widely distributed, particularly in the northern hemisphere."
+      },
+      {
+        "title": "Ferocactus",
+        "text": "Ferocactus is a genus of large barrel-shaped cacti, mostly with large spines and small flowers.  There are about 30 species included in the genus.  They are found in the southwestern United States and northwestern Mexico."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_1676",
+    "difficulty": "easy",
+    "question": "Which genus has the most number of species, Myrsine or Styrax?",
+    "gold_answer": "Myrsine",
+    "context": [
+      {
+        "title": "Myrsine",
+        "text": "Myrsine is a genus of flowering plants in the family Primulaceae.  It was formerly placed in the family Myrsinaceae before this was merged into the Primulaceae.  It is found nearly worldwide, primarily in tropical and subtropical areas.  It contains about 200 species, including several notable radiations, such as the matipo of New Zealand and the kōlea of Hawaiʻ i (the New Zealand \"black matipo\", \"Pittosporum tenuifolium\", is not related to \"Myrsine\").  In the United States, members of this genus are known as colicwood.  Some species, especially \"M. africana\", are grown as ornamental shrubs."
+      },
+      {
+        "title": "Styrax",
+        "text": "Storax or snowbell is the common names of Styrax, a genus of about 130 species of large shrubs or small trees in the family Styracaceae, mostly native to warm temperate to tropical regions of the Northern Hemisphere, with the majority in eastern and southeastern Asia, but also crossing the equator in South America.  The resin obtained from the tree is called storax or benzoin (not to be confused with the \"Liquidambar\" storax balsam)."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_7092",
+    "difficulty": "easy",
+    "question": "Are both American Zeitgeist and Michael Jackson's This Is It documentary films about entertainment?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "American Zeitgeist",
+        "text": "American Zeitgeist is a 2006 documentary film by Rob McGann.  It discusses the war on terror and religion.  It was the winner to the best feature-length documentary at the Houston International Film Festival."
+      },
+      {
+        "title": "Michael Jackson's This Is It",
+        "text": "Michael Jackson's This Is It is a 2009 American documentary–concert film directed by Kenny Ortega that documents Michael Jackson's rehearsals and preparation for his concert series of the same name that was originally scheduled to start on July 13, 2009, but was cancelled due to his death eighteen days prior on June 25.  The film consists of Jackson rehearsing musical numbers, directing his team, and additional behind-the-scenes footage including dancer auditions and costume design.  Ortega confirmed that none of the footage was originally intended for release, but after Jackson's death it was agreed that the film be made.  The footage was filmed in Los Angeles at the Staples Center and The Forum, and features a clip from East Rutherford's Arena where Jackson publicly announced the concert series."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_4257",
+    "difficulty": "easy",
+    "question": "Which lake is located further south, Dal Lake or Waterton Lake?",
+    "gold_answer": "Dal Lake",
+    "context": [
+      {
+        "title": "Waterton Lake",
+        "text": "Waterton Lake is a mountain lake in southern Alberta, Canada and northern Montana, United States.  The lake is composed of two bodies of water, connected by a shallow channel known locally as the Bosporus.  The two parts are referred to as Lower Waterton Lake, and Upper Waterton Lake, the latter of which is crossed at the tip by the Canada–United States border.  The United States Geological Survey gives the geocoordinates of for Upper Waterton Lake."
+      },
+      {
+        "title": "Dal Lake",
+        "text": "Dal is a lake in Srinagar (Dal Lake is a misnomer as Dal in Kashmiri means lake), the summer capital of Jammu and Kashmir.  The urban lake, which is the second largest in the state, is integral to tourism and recreation in Kashmir and is named the \"Jewel in the crown of Kashmir\" or \"Srinagar's Jewel\".  The lake is also an important source for commercial operations in fishing and water plant harvesting."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_3404",
+    "difficulty": "easy",
+    "question": "Who wrote shorter stories, Raymond Carver or Lydia Davis?",
+    "gold_answer": "Lydia Davis",
+    "context": [
+      {
+        "title": "Lydia Davis",
+        "text": "Lydia Davis (born July 15, 1947) is an American writer noted for literary works of extreme brevity (commonly called \"flash fiction\").  Davis is also a short story writer, novelist, essayist, and translator from French and other languages, and has produced several new translations of French literary classics, including \"Swann’s Way\" by Marcel Proust and \"Madame Bovary\" by Gustave Flaubert."
+      },
+      {
+        "title": "Raymond Carver",
+        "text": "Raymond Clevie Carver Jr. (May 25, 1938 – August 2, 1988) was an American short-story writer and poet.  Carver contributed to the revitalization of the American short story during the 1980s."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_1629",
+    "difficulty": "easy",
+    "question": "Who was born first, Sathish Kalathil or Jacques Feyder?",
+    "gold_answer": "Jacques Feyder",
+    "context": [
+      {
+        "title": "Sathish Kalathil",
+        "text": "Sathish Kalathil (മലയാളം: ) is an Indian film and documentary Director and Producer in malayalam.  He is also Story Writer, and Lyricist.  His experimental works are well known and appropriately discussed in Malayalam Cinema industry and his debut movie Jalachhayam (2010) was well discussed according to its experimental approach.  Actually, his first venture was in 2008 named Veena Vaadanam, a documentary film about Art (Painting) and that was his first experimental entry in movie.  In 2012, he directed Laloorinu Parayanullathu, a social committed documentary film about Municipal solid waste."
+      },
+      {
+        "title": "Jacques Feyder",
+        "text": "Jacques Feyder (] ; 21 July 1885 – 24 May 1948) was a Belgian actor, screenwriter and film director who worked principally in France, but also in the USA, Britain and Germany.  He was a leading director of silent films during the 1920s, and in the 1930s he became associated with the style of poetic realism in French cinema.  He adopted French nationality in 1928."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_2226",
+    "difficulty": "easy",
+    "question": "Are Southwest Florida International Airport and Henry E. Rohlsen Airport both in Florida?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Southwest Florida International Airport",
+        "text": "Southwest Florida International Airport (IATA: RSW, ICAO: KRSW, FAA LID: RSW) is a county-owned airport in the South Fort Myers region of unincorporated Lee County, Florida.  The airport's market is Southwest Florida: Bonita Springs, Cape Coral, Captiva Island, Estero, Fort Myers, Marco Island, Naples and Sanibel Island.  In 2015 passengers numbered 8,371,801.  The airport is the second busiest single-runway airport in the United States after San Diego International Airport.  It is a U.S. Customs and Border Protection port of entry."
+      },
+      {
+        "title": "Henry E. Rohlsen Airport",
+        "text": "Henry E. Rohlsen Airport (IATA: STX, ICAO: TISX, FAA LID: STX) is a public airport located six miles (10 km) southwest of Christiansted on the island of St. Croix in the United States Virgin Islands.  The airport is named after Henry E. Rohlsen, a St. Croix native who was one of the Tuskegee Airmen during World War II."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_3387",
+    "difficulty": "easy",
+    "question": "Which of the following buildings was designed by SHoP Architects: 247 Cherry or General Motors Building?",
+    "gold_answer": "247 Cherry",
+    "context": [
+      {
+        "title": "247 Cherry",
+        "text": "247 Cherry is a seventy seven story residential building under development in the Lower East Side neighborhood of Manhattan, in New York City.  The building was designed by SHoP Architects, and is being developed by JDS Development Group.  Renderings for the building were first released in April 2016.  The building will be adjacent One Manhattan Square."
+      },
+      {
+        "title": "General Motors Building (Manhattan)",
+        "text": "The General Motors Building is a 50-story, 705 ft office tower at 767 Fifth Avenue in Manhattan, New York City.  The building, which is bound by Fifth Avenue and Madison Avenue between 59th Street and 58th Street, is one of the few structures in Manhattan to occupy a full city block.  With 1,774,000 net leasable square feet, the tower sits on the site of the former Savoy-Plaza Hotel and affords views of Central Park.  It was designed in the international style by Edward Durell Stone & Associates with Emery Roth & Sons and completed in 1968."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0979",
+    "difficulty": "easy",
+    "question": "Who was born first, Aleksandr Ivanovsky or Arthur Lubin?",
+    "gold_answer": "Aleksandr Ivanovsky",
+    "context": [
+      {
+        "title": "Arthur Lubin",
+        "text": "Arthur Lubin (July 25, 1898 – May 12, 1995) was an American film director and producer who directed several \"Abbott & Costello\" films, \"Phantom of the Opera\" (1943), the \"Francis the Talking Mule\" series and created the talking-horse TV series \"Mister Ed\".  A prominent director for Universal Pictures in the 1940s and 1950s, he is perhaps best known today as the man who gave Clint Eastwood his first contract in film."
+      },
+      {
+        "title": "Aleksandr Ivanovsky",
+        "text": "Aleksandr Ivanovsky (1881–1968) was a Russian screenwriter and film director who worked during the Soviet era.  Ivanovsky was awarded the Stalin Prize in 1941, for his work on the 1940 film \"Musical Story\".  His 1944 operetta film \"Silva\" was one of the most popular releases in the Soviet Union that year."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_4802",
+    "difficulty": "medium",
+    "question": "Gene Sculatti write for CREEM sometime in the 60s or 70s, what famous term did CREEM coin for describing a genre of rock?",
+    "gold_answer": "\"punk rock",
+    "context": [
+      {
+        "title": "Gene Sculatti",
+        "text": "Gene Sculatti (born 1947/1948) is a music journalist who compiled and edited the book \"The Catalog of Cool\" (1982).  In 1966, he became the first journalist to write about the nascent San Francisco music scene in a national magazine (\"Crawdaddy! \").  He is formerly an editorial director for Warner Bros.  Records and the magazine \"Billboard\".  He has also written for \"Rolling Stone\", \"Creem\", and \"Radio & Records\"."
+      },
+      {
+        "title": "Creem",
+        "text": "Creem (which is always capitalized in print as \"CREEM\" despite the magazine's nameplate appearing in mostly lower case letters), \"America's Only Rock 'n' Roll Magazine\", was a monthly rock 'n' roll publication first published in March 1969 by Barry Kramer and founding editor Tony Reay.  It suspended production in 1989 but received a short-lived renaissance in the early 1990s as a glossy tabloid.  Lester Bangs, often cited as \"America's Greatest Rock Critic\", became editor in 1971.  The term \"punk rock\" was coined by the magazine in May 1971, in Dave Marsh's \"Looney Tunes\" column about Question Mark & the Mysterians."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_1209",
+    "difficulty": "medium",
+    "question": " The Canadian Hot 100 is a music industry record chart in Canada for for a song that is released separately from what?",
+    "gold_answer": "an album",
+    "context": [
+      {
+        "title": "Canadian Hot 100",
+        "text": "The Canadian Hot 100 is a music industry record chart in Canada for singles, published weekly by \"Billboard\" magazine.  The Canadian Hot 100 was launched on the issue dated June 16, 2007, and is currently the standard record chart in Canada; a new chart is compiled and officially released to the public by \"Billboard\" on Tuesdays."
+      },
+      {
+        "title": "Single (music)",
+        "text": "In music, a single, record single or music single is a type of release, typically a song recording of fewer tracks than an LP record, an album or an EP record.  This can be released for sale to the public in a variety of different formats.  In most cases, a single is a song that is released separately from an album, although it usually also appears on an album.  Typically, these are the songs from albums that are released separately for promotional uses such as digital download or commercial radio airplay and are expected to be the most popular.  In other cases a recording released as a single may not appear on an album."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_4551",
+    "difficulty": "medium",
+    "question": "How many people live in the County serviced by The Collier Area Transit system?",
+    "gold_answer": "321,520",
+    "context": [
+      {
+        "title": "Collier Area Transit",
+        "text": "Collier Area Transit (CAT) is the public transportation system in Collier County, Florida.  Regular transit bus service and the paratransit system are administered by the Collier County Department of Alternative Transportation Modes.  Service is provided to Immokalee, Marco Island, Golden Gate and the City of Naples area, seven days a week from 6 a.m. to 7:30 p.m. depending on the route."
+      },
+      {
+        "title": "Collier County, Florida",
+        "text": "Collier County is a county in the U.S. state of Florida.  As of the 2010 census, the population was 321,520.  Its county seat is East Naples, where the county offices were moved from Everglades in 1962."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_4352",
+    "difficulty": "medium",
+    "question": "Walt Disney World Quest: Magical Racing Tour includes the space-themed roller coaster that was opened on what date?",
+    "gold_answer": "January 15, 1975",
+    "context": [
+      {
+        "title": "Walt Disney World Quest: Magical Racing Tour",
+        "text": "Walt Disney World Quest: Magical Racing Tour is a 2000 go-kart racing video game based on attractions at the Walt Disney World Resort.  Players compete in races on tracks inspired by attractions such as the Haunted Mansion, Pirates of the Caribbean, Space Mountain and Big Thunder Mountain Railroad to acquire missing parts for the park's fireworks machine, which was accidentally destroyed by Chip 'n' Dale while they were gathering acorns.  The game was developed by Crystal Dynamics and published by Eidos Interactive.  The Game Boy Color version was developed by Prolific Publishing."
+      },
+      {
+        "title": "Space Mountain (Magic Kingdom)",
+        "text": "Space Mountain is an indoor dark outer space-themed steel roller coaster at the Magic Kingdom theme park at the Walt Disney World Resort in Lake Buena Vista, Florida.  Opened on January 15, 1975, Space Mountain is the oldest operating roller coaster in the state of Florida, and is the original version of the iconic attraction that has since been replicated at all of The Walt Disney Company's Magic Kingdom-style theme parks worldwide, except for the Shanghai Disneyland Resort.  RCA helped fund Space Mountain's construction and sponsored the ride from 1975 to 1993; FedEx sponsored Space Mountain from 1994 to 2004."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_3328",
+    "difficulty": "medium",
+    "question": "What day of the week does the Korean cooking-variety program featuring the owner of \"Dear. bread\" air?",
+    "gold_answer": "Mondays",
+    "context": [
+      {
+        "title": "Lee Won-il",
+        "text": "Lee Won-il (; born December 12, 1979) is a South Korean chef and television personality.  He is currently a cast member in the variety show \"Please Take Care of My Refrigerator\".  He is owner and chef of \"Dear.  bread\"."
+      },
+      {
+        "title": "Please Take Care of My Refrigerator",
+        "text": "Please Take Care of My Refrigerator () is a 2014 South Korean cooking-variety program starring by many chefs and celebrity guests.  It airs on JTBC on Mondays at 21:30 (KST) beginning November 17, 2014."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0537",
+    "difficulty": "medium",
+    "question": "Jack Alfred Evans played with a football club team that is based in what city in Australia?",
+    "gold_answer": "Melbourne",
+    "context": [
+      {
+        "title": "St Kilda Football Club",
+        "text": "The St Kilda Football Club, nicknamed the Saints, is an Australian rules football club based in Melbourne, Victoria, Australia.  The club plays in the Australian Football League, the sport's premier league."
+      },
+      {
+        "title": "Jack Evans (footballer, born 1930)",
+        "text": "Jack Alfred Evans (born 11 October 1930) was an Australian rules footballer who played with St Kilda in the Victorian Football League (VFL)."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_5810",
+    "difficulty": "medium",
+    "question": "In the muti-sport games usually held every four years between nations around the Mediterranean Sea, Fatma Lanouar is best known for winning gold in which event?",
+    "gold_answer": "1500 metres",
+    "context": [
+      {
+        "title": "Fatma Lanouar",
+        "text": "Fatma Lanouar (Arabic: فاطمة لأنور; born March 14, 1978) is a former female middle distance runner from Tunisia.  She is best known for twice (2001 and 2005) winning the gold medal at the Mediterranean Games in the women's 1500 metres.  Lanouar set her personal best (4:06.91) in the 1,500 metres in 2000.  She was also the silver medallist at the 2001 Jeux de la Francophonie."
+      },
+      {
+        "title": "Mediterranean Games",
+        "text": "The Mediterranean Games are a multi-sport games held usually every four years, between nations around or very close to the Mediterranean Sea, where Europe, Africa, and Asia meet.  The games are under the auspices of the International Committee of Mediterranean Games (CIJM)."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_6748",
+    "difficulty": "medium",
+    "question": "In what county is the community, to which the character Everett Turner is travelling to in the book \"Away West\", located?",
+    "gold_answer": "Graham County, Kansas",
+    "context": [
+      {
+        "title": "Nicodemus, Kansas",
+        "text": "Nicodemus is an unincorporated community in Graham County, Kansas, United States.  The community was founded in 1877 and is named for the Biblical figure Nicodemus."
+      },
+      {
+        "title": "Away West",
+        "text": "Scraps of Time: 1879, Away West is a 2006 book by Patricia McKissack about a farmboy, Everett Turner, who runs away and joins the Exodusters, travelling to Nicodemus, Kansas."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_1558",
+    "difficulty": "medium",
+    "question": "The Battle of Cambrai took place during a series of offensives that ended on what date?",
+    "gold_answer": "11 November 1918",
+    "context": [
+      {
+        "title": "Hundred Days Offensive",
+        "text": "The Hundred Days Offensive was the final period of the First World War, during which the Allies launched a series of offensives against the Central Powers on the Western Front from 8 August to 11 November 1918, beginning with the Battle of Amiens.  The offensive essentially pushed the Germans out of France, forcing them to retreat beyond the Hindenburg Line, and was followed by an armistice.  The term \"Hundred Days Offensive\" does not refer to a specific battle or unified strategy, but rather the rapid series of Allied victories starting with the Battle of Amiens."
+      },
+      {
+        "title": "Battle of Cambrai (1918)",
+        "text": "The Battle of Cambrai, 1918 (also known as the Second Battle of Cambrai) was a battle between troops of the British First, Third and Fourth Armies and German Empire forces during the Hundred Days Offensive of the First World War.  The battle took place in and around the French city of Cambrai, between 8 and 10 October 1918.  The battle incorporated many of the newer tactics of 1918, in particular tanks.  The attack was an overwhelming success with light casualties in an extremely short amount of time."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_4786",
+    "difficulty": "medium",
+    "question": "Which Independent Spirit Award was an actress, who was in a film directed by Neil LaBute, nominated for?",
+    "gold_answer": "Best Female Lead",
+    "context": [
+      {
+        "title": "In the Company of Men",
+        "text": "In the Company of Men is a 1997 Canadian/American black comedy written and directed by Neil LaBute and starring Aaron Eckhart, Matt Malloy, and Stacy Edwards.  The film, which was adapted from a play written by LaBute, and served as his feature film debut, won him the Independent Spirit Award for Best First Screenplay."
+      },
+      {
+        "title": "Stacy Edwards",
+        "text": "Stacy Edwards (born March 4, 1965) is an American actress.  She appeared in a number of B movies before her breakthrough role in the 1997 black comedy film \"In the Company of Men\", for which she received Independent Spirit Award for Best Female Lead nomination.  Edwards later had roles in films such as \"Primary Colors\" (1998), \"Black and White\" (1999) and \"Driven\" (2001), and was regular cast member in the CBS medical drama series, \"Chicago Hope\" (1997–1999)."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0986",
+    "difficulty": "medium",
+    "question": "Jon S. Cardin is the nephew of a senator who has been in office since when ?",
+    "gold_answer": "since 2007",
+    "context": [
+      {
+        "title": "Ben Cardin",
+        "text": "Benjamin Louis Cardin (born October 5, 1943) is an American politician and member of the Democratic Party who serves as the senior United States Senator from Maryland, in office since 2007.  Before his election to the Senate, Cardin was previously a member of the United States House of Representatives, representing  's 3 congressional district (1987–2007).  He also served in the Maryland House of Delegates (1967–87), serving as Speaker (1979–87).  He was the youngest Speaker in Maryland history.  In half a century as an elected official, he has never lost an election."
+      },
+      {
+        "title": "Jon S. Cardin",
+        "text": "Jon S. Cardin (born January 12, 1970) is an American politician from Maryland and a member of the Democratic Party.  Previously he served in the Maryland House of Delegates, representing Maryland's District 11 in Baltimore County, and was a member of the Ways and Means Committee.  Cardin chaired the Election Law Subcommittee.  Cardin is the nephew of Ben Cardin, a United States Senator from Maryland."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_6953",
+    "difficulty": "medium",
+    "question": "In which film did Emilio Estevez star in in the same year as Nightmares",
+    "gold_answer": "The Outsiders",
+    "context": [
+      {
+        "title": "Emilio Estevez",
+        "text": "Emilio Estevez ( ; born May 12, 1962) is an American actor, director, and writer.  He started his career as an actor and is well known for being a member of the acting Brat Pack of the 1980s, starring in \"The Breakfast Club\", \"St. Elmo's Fire\", and also acting in the 1983 hit movie \"The Outsiders\".  He is also known for \"Repo Man\", \"The Mighty Ducks\" and its sequels, \"Stakeout\", \"Maximum Overdrive\", \"Bobby\" (which he also wrote and directed), and his performances in Western films such as \"Young Guns\" and its sequel."
+      },
+      {
+        "title": "Nightmares (1983 film)",
+        "text": "Nightmares is a 1983 American horror anthology film directed by Joseph Sargent, and starring Emilio Estevez, Lance Henriksen, Cristina Raines, Veronica Cartwright, and Richard Masur.  The film is made up of four short films based on urban legends; the first concerns a woman who encounters a killer in the backseat of her car; the second concerns a video game-addicted teenager who is consumed by his game; the third focuses on a fallen priest who is stalked by a pickup truck from hell; and the last follows a suburban family battling a giant rat in their home."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_3716",
+    "difficulty": "medium",
+    "question": " Which singer, who released his debut solo album in 2012, served as producer for the EP Live at the Third Man by White Denim in 2011?",
+    "gold_answer": "Jack White",
+    "context": [
+      {
+        "title": "Live at Third Man",
+        "text": "Live at Third Man is a live EP released by the Texan band White Denim in the summer of 2011.  It was produced by Jack White of The White Stripes and released as a 12\" vinyl record on his record label Third Man Records."
+      },
+      {
+        "title": "Jack White",
+        "text": "John Anthony \"Jack\" White (né Gillis; July 9, 1975) is an American musician, singer, songwriter, record producer and actor.  He is known as the lead singer and guitarist of duo The White Stripes.  He has also had success in other bands and as a solo artist.  On April 24, 2012, White released his debut solo album, \"Blunderbuss\".  His second studio album, \"Lazaretto\", was released on June 10, 2014.  Both received wide commercial and critical acclaim."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_4584",
+    "difficulty": "medium",
+    "question": "Who did an actress from The Secret of NIMH play in A Patch of Blue?",
+    "gold_answer": "Selina D'Arcy",
+    "context": [
+      {
+        "title": "Elizabeth Hartman",
+        "text": "Mary Elizabeth Hartman (December 23, 1943 – June 10, 1987) was an American actress, best known for her performance in the 1965 film \"A Patch of Blue\", playing a blind girl named Selina D'Arcy, opposite Sidney Poitier, a role for which she was nominated for the Academy Award for Best Actress and the Golden Globe Award.  The next year, she appeared in Francis Ford Coppola's \"You're a Big Boy Now\" (1966) as Barbara Darling, for which she was nominated for a second Golden Globe Award."
+      },
+      {
+        "title": "The Secret of NIMH",
+        "text": "The Secret of NIMH is a 1982 American animated dark-science fantasy adventure film directed by Don Bluth in his directorial debut.  It is an adaptation of Robert C. O'Brien's 1971 children's novel \"Mrs. Frisby and the Rats of NIMH\".  The film was produced by Aurora Productions and released by MGM/UA Entertainment Company for United Artists and features the voices of Elizabeth Hartman, Dom DeLuise, Arthur Malet, Derek Jacobi, Hermione Baddeley, John Carradine, Peter Strauss, and Paul Shenar.  The \"Mrs. Frisby\" name in the novel had to be changed to \"Mrs. Brisby\" during production due to trademark concerns with Frisbee discs.  It was followed in 1998 by a direct-to-video sequel called \"\", which was made without Bluth's involvement or input.  In 2015, a CGI/live action reboot was reported to be in the works."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_7259",
+    "difficulty": "medium",
+    "question": "What actor appeared in \"Evening in Byzantium\" and was nominated for the Academy Award for Best Supporting Actor in 1973 for \"The Heartbreak Kid\"?",
+    "gold_answer": "Edward Albert Heimberger",
+    "context": [
+      {
+        "title": "Eddie Albert",
+        "text": "Edward Albert Heimberger (April 22, 1906 – May 26, 2005), known professionally as Eddie Albert, was an American actor and activist.  He was nominated for the Academy Award for Best Supporting Actor in 1954 for his performance in \"Roman Holiday\", and in 1973 for \"The Heartbreak Kid\"."
+      },
+      {
+        "title": "Evening in Byzantium",
+        "text": "Evening in Byzantium is a 1978 two-part, four-hour made-for-television film produced by Glen A. Larson Productions and Universal Television, and directed by Jerry London, about the Cannes Film Festival being overtaken by terrorists.  It stars Glenn Ford, Vince Edwards, Shirley Jones, Eddie Albert and Erin Gray, with Edward James Olmos in a bit role.  The film is loosely based on the novel of the same name by Irwin Shaw."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_2405",
+    "difficulty": "medium",
+    "question": "Which actor starred in Angels in the Outfield, Predator 2, and Places in the Heart?",
+    "gold_answer": "Danny Glover",
+    "context": [
+      {
+        "title": "Places in the Heart",
+        "text": "Places in the Heart is a 1984 American drama film written and directed by Robert Benton about a U.S. Depression-era Texas widow who tries to save the family farm with the help of a blind white man and a poor black man.  The film stars Sally Field, Lindsay Crouse, Ed Harris, Ray Baker, Amy Madigan, John Malkovich, Danny Glover, Jerry Haynes and Terry O'Quinn.  It was filmed in Waxahachie, Texas.  Field won the Academy Award for Best Actress for her performance."
+      },
+      {
+        "title": "Danny Glover",
+        "text": "Danny Lebern Glover (born July 22, 1946) is an American actor, film director, and political activist.  He is well known for his leading role as Roger Murtaugh in the \"Lethal Weapon\" film series, \"The Color Purple\" (1985), \"To Sleep with Anger\" (1990), \"Predator 2\" (1990), and \"Angels in the Outfield\" (1994).  He also has prominent supporting roles in \"Silverado\" (1985), \"Witness\" (1985), \"Saw\" (2004), \"Shooter\" (2007), \"2012\" (2009), \"Death at a Funeral\" (2010), \"Beyond the Lights\" (2014), and \"Dirty Grandpa\" (2016).  He has appeared in many other movies, television shows, and theatrical productions, and is an active supporter of various humanitarian and political causes."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0861",
+    "difficulty": "medium",
+    "question": "The Black Belly of the Tarantula starred an actress who married what former member of the Beatles?",
+    "gold_answer": "Ringo Starr",
+    "context": [
+      {
+        "title": "Black Belly of the Tarantula",
+        "text": "The Black Belly of the Tarantula is a 1971 Italian giallo film directed by Paolo Cavara.  It is one of many Italian giallo films to be inspired by Dario Argento's successful debut thriller \"The Bird with the Crystal Plumage\".  The film was shot on location in Rome, Italy in 1970.  It starred Giancarlo Giannini, Barbara Bouchet and Barbara Bach.  Ennio Morricone did the music score for the film.  Though fairly obscure for many years the film has recently made a comeback thanks to the rising fan base for the giallo genre.  The film has gained much praise from the horror community, one writer at Horrorview.com cited it as the best giallo ever made.  Blue Underground Entertainment released the film on DVD in 2006."
+      },
+      {
+        "title": "Barbara Bach",
+        "text": "Barbara Bach (born Barbara Goldbach; August 27, 1947) is an American actress and model who played the Bond girl Anya Amasova in the James Bond film \"The Spy Who Loved Me\" (1977) as well as the spy Maritza Petrović in \"Force 10 from Navarone\" (1978).  She married Ringo Starr, former member of the Beatles, in 1981."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0573",
+    "difficulty": "medium",
+    "question": "Ms. Knope Goes to Washington is the fifth season premiere of an American political comedy television sitcom starring Amy Poehler as who?",
+    "gold_answer": "Leslie Knope",
+    "context": [
+      {
+        "title": "Ms. Knope Goes to Washington",
+        "text": "\"Ms. Knope Goes to Washington\" is the season premiere of the fifth season of the American comedy television series \"Parks and Recreation\", and the 69th overall episode of the series.  It originally aired on NBC in the United States on September 20, 2012."
+      },
+      {
+        "title": "Parks and Recreation",
+        "text": "Parks and Recreation is an American political comedy television sitcom starring Amy Poehler as Leslie Knope, a perky, mid-level bureaucrat in the Parks Department of Pawnee, a fictional town in Indiana.  Created by Greg Daniels and Michael Schur, the series aired on NBC from April 9, 2009 to February 24, 2015, for 125 episodes, over seven seasons.  It was written by the same writers and uses the same filming style as \"The Office\", with the same implication of a documentary crew filming everyone.  The ensemble and supporting cast feature Rashida Jones as Ann Perkins, Paul Schneider as Mark Brendanawicz, Aziz Ansari as Tom Haverford, Nick Offerman as Ron Swanson, Aubrey Plaza as April Ludgate, Chris Pratt as Andy Dwyer, Adam Scott as Ben Wyatt, Rob Lowe as Chris Traeger, Jim O'Heir as Garry \"Jerry\" or \"Larry\" Gergich, Retta as Donna Meagle, and Billy Eichner as Craig Middlebrooks."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_2841",
+    "difficulty": "medium",
+    "question": " Thomas Anthony Jankiewicz was best known for penning a film staring an actress who played Fiona Bowa on what NBC sitcom?",
+    "gold_answer": "About a Boy",
+    "context": [
+      {
+        "title": "Minnie Driver",
+        "text": "Amelia Fiona \"Minnie\" Driver (born 31 January 1970) is an English actress and singer-songwriter.  She was nominated for the Academy Award for Best Supporting Actress for Gus van Sant's \"Good Will Hunting\" (1997) for her role as Skylar, and for the Emmy Award and Golden Globe for her work in the television series \"The Riches\" (2007-2008).  Her film work includes \"Sleepers\", \"Grosse Pointe Blank\", \"Tarzan\", \"Return to Me\", \"Ella Enchanted\", \"The Phantom of the Opera\", \"Conviction\", & \"Barney's Version\".  She starred as Fiona Bowa on the NBC sitcom \"About a Boy\" and currently stars as Maya DiMeo on the critically acclaimed ABC sitcom \"Speechless\"."
+      },
+      {
+        "title": "Tom Jankiewicz",
+        "text": "Thomas Anthony Jankiewicz (September 8, 1963 – January 23, 2013) was an American screenwriter.  Jankiewicz was best known for penning the 1997 film, \"Grosse Pointe Blank\", starring John Cusack, Minnie Driver, Alan Arkin, and Dan Aykroyd.  \"Grosse Pointe Blank\" tells the story of an assassin, played by John Cusack, who returns to his hometown for his 10-year high school reunion."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_3659",
+    "difficulty": "medium",
+    "question": "Near what ocean does the highway carried by the Long-Allen bridge terminate near?",
+    "gold_answer": "the Atlantic Ocean",
+    "context": [
+      {
+        "title": "Long–Allen Bridge (Shreveport)",
+        "text": "The Long–Allen Bridge is a truss bridge in Shreveport, Louisiana, named for Louisiana governors Huey Long and Oscar K. Allen.  Opened in 1933, it carries U.S. Route 80 across the Red River.  It is also known as the Texas Street Bridge."
+      },
+      {
+        "title": "U.S. Route 80",
+        "text": "U.S. Route 80 (US 80) is an east–west United States Numbered Highway, much of which was once part of the early auto trail known as the Dixie Overland Highway.  As the \"0\" in the route number indicates, it was originally a cross-country route, from the Pacific Ocean to the Atlantic Ocean.  However, the entire segment west of Dallas, Texas, has been decommissioned in favor of various Interstate Highways and state highways.  Currently, the highway's western terminus is at an interchange with Interstate 30 (I-30) on the Dallas–Mesquite, Texas city line.  The highway's eastern terminus is in Tybee Island, Georgia, at the intersection of Butler Avenue, Inlet Avenue, and Tybrisa Street, near the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0997",
+    "difficulty": "medium",
+    "question": "What distinction about his birth makes the contemporary of Bill Pollack unique as a winner of the Formula One World Drivers' Championship?",
+    "gold_answer": "American-born",
+    "context": [
+      {
+        "title": "Phil Hill",
+        "text": "Philip Toll Hill Jr. (April 20, 1927 – August 28, 2008) was an American automobile racer and the only American-born driver to win the Formula One World Drivers' Championship (Mario Andretti, an Italian American driver, won the World Drivers' Championship in 1978, but was not born in the United States).  He also scored three wins at each of the 24 Hours of Le Mans and 12 Hours of Sebring sports car races."
+      },
+      {
+        "title": "Bill Pollack",
+        "text": "Bill Pollack was a competitor in the early days of the post World War II California sports car culture.  Starting his racing career in 1950, he would go on to win the Pebble Beach in an Allard J2 that was owned by Tom Carstens'.  Bill also won at other California venues of that time: Pebble Beach, Golden Gate Park, Reno, Torrey Pines, Stockton, Madera, Willow Springs, Palm Springs, and the Santa Barbara road races.  He was a contemporary of Phil Hill, who went on to become the first and only U.S. born world grand prix champion."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_2898",
+    "difficulty": "medium",
+    "question": "Wrinkles is a song that was recorded by what American country and Christian country band that was founded in 1982?",
+    "gold_answer": "Diamond Rio",
+    "context": [
+      {
+        "title": "Diamond Rio",
+        "text": "Diamond Rio is an American country and Christian country music band.  The band was founded in 1982 as an attraction for the Opryland USA theme park in Nashville, Tennessee, and was originally known as the Grizzly River Boys, then the Tennessee River Boys.  It was founded by Matt Davenport, Danny Gregg, and Ty Herndon, the last of whom became a solo artist in the mid-1990s.  After undergoing several membership changes in its initial years, the band has consisted of the same six members since 1989: Marty Roe (lead vocals, rhythm guitar), Gene Johnson (mandolin, guitar, fiddle, tenor vocals), Jimmy Olander (lead guitar, Dobro, banjo), Brian Prout (drums), Dan Truman (keyboards, organ, synthesizer), and Dana Williams (bass guitar, baritone vocals)."
+      },
+      {
+        "title": "Wrinkles (song)",
+        "text": "\"Wrinkles\" is a song written by Neil Thrasher and Ronny Scaife, and recorded by American country music group Diamond Rio.  It was released in July 2003 as the third single from the album \"Completely\".  The song reached number 16 on the \"Billboard\" Hot Country Singles & Tracks chart."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_1269",
+    "difficulty": "medium",
+    "question": "Jesús Dautt is a Mexican professional footballer who is on loan from a club founded on what date?",
+    "gold_answer": "28 June 1945",
+    "context": [
+      {
+        "title": "C.F. Monterrey",
+        "text": "Club de Fútbol Monterrey is a Mexican football club from Monterrey, Nuevo León.  Founded on 28 June 1945, it is the oldest active team in the professional division from the northern part of Mexico, and currently play in the Liga MX.  The club is owned by FEMSA, Latin America's largest bottling company.  Its home games have been played in the Estadio BBVA Bancomer since 2015."
+      },
+      {
+        "title": "Jesús Dautt",
+        "text": "Jesús Dautt is a Mexican professional footballer who plays for Tapachula of Ascenso MX on loan from Monterrey."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_4803",
+    "difficulty": "medium",
+    "question": "What NFL Team, undefeated in 1972, had on their staff the coach of the 2004 Florida Atlantic Owls football team?",
+    "gold_answer": "Miami Dolphins",
+    "context": [
+      {
+        "title": "2004 Florida Atlantic Owls football team",
+        "text": "The 2004 Florida Atlantic University Owls football team represented Florida Atlantic University in the 2004 NCAA Division I-A football season.  The team was coached by Howard Schnellenberger and played their home games at Lockhart Stadium in Fort Lauderdale, Florida.  The Owls entered the season as a program in transition from Division I-AA to Division I-A for the first year.  As per NCAA rule, programs moving up from I-AA to I-A must spend two seasons in transition, thus not being eligible for a postseason bowl berth nor a conference championship."
+      },
+      {
+        "title": "Howard Schnellenberger",
+        "text": "Howard Leslie Schnellenberger (born March 16, 1934) is a retired American football coach with long service at both the professional and college levels.  He held head coaching positions with the National Football League's Baltimore Colts and in college for the University of Miami, University of Oklahoma, University of Louisville and Florida Atlantic University.  He won a national championship with Miami in 1983.  Schnellenberger also worked extensively as an assistant coach at the college and pro levels, including as part of the staff of the undefeated 1972 Miami Dolphins.  He is also famous for recruiting Joe Namath to Alabama for Bear Bryant in 1961."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_3520",
+    "difficulty": "medium",
+    "question": "Which county is Jollyville, Texas located in that had a population of 1,024,266 as of the 2010 census?",
+    "gold_answer": "Travis County",
+    "context": [
+      {
+        "title": "Jollyville, Texas",
+        "text": "Jollyville is a census-designated place (CDP) in Travis and Williamson counties in Texas.  It is a neighborhood in north Austin.  The population was 16,151 at the 2010 census."
+      },
+      {
+        "title": "Travis County, Texas",
+        "text": "Travis County is a county located in south central Texas.  As of the 2010 census, the population was 1,024,266; the estimated population in 2014 was 1,151,145.  It is the fifth-most populous county in Texas.  Its county seat is Austin, the capital of Texas.  The county was established in 1840 and is named in honor of William Barret Travis, the commander of the Republic of Texas forces at the Battle of the Alamo."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_5730",
+    "difficulty": "medium",
+    "question": "Both Tim Conlon and Kehinde Wiley have what type of occupation?",
+    "gold_answer": "artist",
+    "context": [
+      {
+        "title": "Tim Conlon (artist)",
+        "text": "Tim Conlon (born 1974 in Alexandria, Virginia) is an American artist and graffiti writer known for large-scale murals and works on canvas.  He was featured as one of several artists (including Kehinde Wiley and poet, Nikki Giovanni) in the Smithsonian National Portrait Gallery exhibit, \"Recognize!  Hip Hop and Contemporary Portraiture\", which included four large graffiti murals painted by Conlon and collaborator, David Hupp in 2008.  This marked the first modern graffiti ever to be in the Smithsonian Institution."
+      },
+      {
+        "title": "Kehinde Wiley",
+        "text": "Kehinde Wiley (born 1977) is a New York-based portrait painter who is known for his highly naturalistic paintings of black people in heroic poses.  The Columbus Museum of Art, which hosted an exhibition of his work in 2007, describes his work with the following: \"Kehinde Wiley has gained recent acclaim for his heroic portraits which address the image and status of young African-American men in contemporary culture.\""
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_4617",
+    "difficulty": "medium",
+    "question": "What is the subsidiary of the record company who released \"Love Incredible?\"",
+    "gold_answer": "Vivendi S.A.",
+    "context": [
+      {
+        "title": "Interscope Records",
+        "text": "Interscope Records is an American major record label.  An imprint of Interscope Geffen A&M Records, its parent company is Universal Music Group, a subsidiary of Vivendi S.A."
+      },
+      {
+        "title": "Love Incredible",
+        "text": "\"Love Incredible\" is a song by Norwegian DJ and record producer Cashmere Cat, featuring vocals by Cuban-American singer Camila Cabello.  It was released on 17 February 2017 through Interscope and Mad Love as the third single from his debut album, \"9\"."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_2026",
+    "difficulty": "medium",
+    "question": "Which club, founded in 1928, did Bob Johnson played for ",
+    "gold_answer": "The club",
+    "context": [
+      {
+        "title": "Bob Johnson (footballer, born 1905)",
+        "text": "Robert James \"Bob\" Johnson (27 March 1905 – 1987) was an English footballer who scored 15 goals from 39 appearances in the Football League playing as a centre forward or outside right for Southport and Darlington.  He also played in Ireland for Derry City, was on the books of Barnsley, without playing for them in the League, and played non-league football for clubs including Ushaw Moor, Moor Ends Thorne, Firbeck Colliery, Spennymoor United, Thorne Colliery, Eden Colliery and Walker Celtic."
+      },
+      {
+        "title": "Derry City F.C.",
+        "text": "The club, founded in 1928, initially played in the Irish League, the domestic league in Northern Ireland, and won a title in 1964–65.  In 1971, security concerns related to the Troubles meant matches could not be played at the Brandywell.  The team played home fixtures 30 mi away in Coleraine.  The security forces withdrew their objections to the use of the Brandywell the following year, but in the face of insistence from the Irish League that the unsustainable arrangement continue, the club withdrew from the league.  After 13 years in junior football, it joined the League of Ireland's new First Division for 1985–86.  Derry won the First Division title and achieved promotion to the Premier Division in 1987, and remained there until the 2009 relegation.  The club won a domestic treble in 1988–89, the only League of Ireland club so far."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_4682",
+    "difficulty": "medium",
+    "question": "When did the car depicted on the cover of Pentastar: In the Style of Demons cease production?",
+    "gold_answer": "1974",
+    "context": [
+      {
+        "title": "Pentastar: In the Style of Demons",
+        "text": "Pentastar: In the Style of Demons is the third full-length studio album by the drone doom band Earth.  It has a more rock-oriented sound than their earlier drone doom work, although in a very minimalist style.  \"Peace in Mississippi\" is a cover of the Jimi Hendrix song.  The original vinyl release of this album has an alternative take of \"Peace in Mississippi\".  The car depicted on the cover is a \"Sassy Grass Green\" Plymouth Barracuda with the car's iconic hockey-stick decal saying \"Earth.\"  The \"Pentastar\" named in the album title is an apparent reference to the brand logo of Chrysler, parent company of Plymouth and also a reference to the fact that this is the fifth CD by Earth (its predecessor being 1995's Sunn Amps and Smashed Guitars)."
+      },
+      {
+        "title": "Plymouth Barracuda",
+        "text": "The Plymouth Barracuda is a two-door car that was manufactured by Plymouth from the 1964 to 1974 model years."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_4502",
+    "difficulty": "medium",
+    "question": "Which City in the Miami metropolitan area is home to the Primetime Race Group?",
+    "gold_answer": "Hollywood, Florida",
+    "context": [
+      {
+        "title": "Primetime Race Group",
+        "text": "The Primetime Race Group is a privateer motorsport team from Hollywood, Florida which currently competes in the American Le Mans Series (ALMS) and the International Motor Sports Association (IMSA) Lites Series, a support series of the ALMS."
+      },
+      {
+        "title": "Hollywood, Florida",
+        "text": "Hollywood is a city in Broward County, Florida, located between Fort Lauderdale and Miami.  The average temperature is between 68 and 83°F.  As of July 1, 2015 Hollywood has a population of 149,728.  Founded in 1925, the city grew rapidly in the 1950s and 1960s, and is now the twelfth-largest city in Florida.  Hollywood is a principal city of the Miami metropolitan area, which was home to an estimated 6,012,331 people at the 2015 census."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_2610",
+    "difficulty": "medium",
+    "question": "How far from Buenos Aires is the birthplace of Ezequiel Lazaro? ",
+    "gold_answer": "about 700 km",
+    "context": [
+      {
+        "title": "Ezequiel Lázaro",
+        "text": "Ezequiel Lázaro (born December 4, 1981 in Córdoba, Argentina) is an Argentine footballer."
+      },
+      {
+        "title": "Córdoba, Argentina",
+        "text": "Córdoba (] ) is a city in the geographical center of Argentina, in the foothills of the Sierras Chicas on the Suquía River, about 700 km northwest of the Autonomous City of Buenos Aires.  It is the capital of Córdoba Province and the second most populous city in Argentina after Buenos Aires, with about 1,330,023 inhabitants according to the 2010 census.  It was founded on 6 July 1573 by Jerónimo Luis de Cabrera, who named it after Córdoba, Spain.  It was one of the first Spanish colonial capitals of the region that is now Argentina (the oldest city is Santiago del Estero, founded in 1553).  The National University of Córdoba is the oldest university of the country and the second to be inaugurated in Latin America.  It was founded in 1613 by the Jesuit Order.  Because of this, Córdoba earned the nickname \"La Docta\" (roughly translated, \"the learned one\")."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_3370",
+    "difficulty": "medium",
+    "question": "Though one castle is on an Isle and the other on a ridge, what to they share in common regarding their locations? ",
+    "gold_answer": "Scotland",
+    "context": [
+      {
+        "title": "Kilcoy Castle",
+        "text": "Kilcoy Castle is a 17th-century castle near Muir of Ord and Tore on the Black Isle, in Ross and Cromarty, Scotland.  Kilcoy Castle is a ‘Z’ plan fortalice dating from no later than 1618 and possibly founded as early as 1580 (contemporary with Dalcross Castle QV)."
+      },
+      {
+        "title": "Dalcross Castle",
+        "text": "Dalcross Castle is a restored 17th century tower house, about 1.5 mi south west of Croy, Highland, Scotland, about 7 mi north and east of Inverness.  The castle stands on a ridge."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0885",
+    "difficulty": "medium",
+    "question": "What tribe was the Megaoryzomys curioi previously in that Nesoryzomys are also in?",
+    "gold_answer": "Oryzomyini",
+    "context": [
+      {
+        "title": "Nesoryzomys",
+        "text": "Nesoryzomys is a genus of rodent in the tribe Oryzomyini of family Cricetidae, endemic to the Galápagos Islands.  Other rodents restricted to the Galápagos include \"Megaoryzomys curioi\" and \"Aegialomys galapagoensis\"."
+      },
+      {
+        "title": "Megaoryzomys",
+        "text": "Megaoryzomys curioi, also known as the Galápagos giant rat, is an extinct species of sigmodontine rodent, known only from Santa Cruz Island in the Galápagos Islands.  It likely met its demise when European settlers introduced invasive species to the island.  It is the only species in the genus Megaoryzomys.  Its relationships are currently unclear; it has been placed in both Oryzomyini and Thomasomyini in the past."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_2130",
+    "difficulty": "medium",
+    "question": "Britt Walford played with what musician who is best known for his guitar work in the band Maurice",
+    "gold_answer": "David Pajo",
+    "context": [
+      {
+        "title": "Britt Walford",
+        "text": "Britt Walford (born 1970, in Louisville, Kentucky) is best known for being the drummer for Slint.  He was a member of the punk band Squirrel Bait, but was replaced by Ben Daughtrey when he quit to play with future Slint guitarist David Pajo in the band Maurice.  After the breakups of Squirrel Bait and Maurice, some of the members joined to form the band which would become Slint.  In 1989, Walford joined Pixies bassist Kim Deal in her new project The Breeders at the request of Steve Albini (under the pseudonyms Shannon Doughton & Mike Hunt), with whom he recorded their first album, \"Pod\" (1990), also appearing for live performances in drag to suit his stage name.  Slint broke up in November 1990, Walford remain semi-active in the music scene, eventually in underground New York jazz bands and playing for bands such as Evergreen and friend Brian McMahan's The For Carnation project."
+      },
+      {
+        "title": "David Pajo",
+        "text": "David Pajo (born June 25, 1968) is an American alternative rock musician.  He has played a wide variety of music, loosely fitting into several other genres such as hardcore punk, math rock, post-rock, electronica, folk rock and indie pop.  Though a multi-instrumentalist (including guitar, bass guitar, banjo and drums), he is best known for his guitar work."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_6725",
+    "difficulty": "medium",
+    "question": "What event in 1920 was established by the director of the play \"The Miracle?\"",
+    "gold_answer": "Salzburg Festival",
+    "context": [
+      {
+        "title": "The Miracle (1959 film)",
+        "text": "The Miracle is a 1959 film directed by Irving Rapper and starring Carroll Baker and Roger Moore.  It is a remake of the 1912 hand-colored, black-and-white film \"The Miracle\", which was in turn a production of the 1911 pantomime play \"The Miracle\" written by Karl Vollmöller and directed by Max Reinhardt."
+      },
+      {
+        "title": "Max Reinhardt",
+        "text": "Max Reinhardt (September 9, 1873 – October 30, 1943) was an Austrian-born American theatre and film director, intendant, and theatrical producer.  With his innovative stage productions, he is regarded as one of the most prominent directors of German-language theatre in the early 20th century.  In 1920, he established the Salzburg Festival with the performance of Hofmannsthal's \"Jedermann\"."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_3068",
+    "difficulty": "medium",
+    "question": "What was the name changed to after Allison J71 was modified to a thrust of 7400 lbf?",
+    "gold_answer": "J35",
+    "context": [
+      {
+        "title": "Allison J35",
+        "text": "The General Electric/Allison J35 was originally developed by General Electric (GE company designation TG-180) in parallel with the Whittle-based centrifugal-flow J33, and was the United States Air Force's first axial-flow (straight-through airflow) compressor engine.  The J35 was fairly simple, consisting of an eleven-stage axial-flow compressor and a single-stage turbine.  With the afterburner, which most models carried, it produced a thrust of 7400 lbf ."
+      },
+      {
+        "title": "Allison J71",
+        "text": "The Allison J71 was a single spool turbojet engine, designed and built in the United States.  It began development in 1948 as a much modified J35, originally designated J35-A-23."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_2033",
+    "difficulty": "medium",
+    "question": "How many rooms are in the building built in 1883 at Garden City in Nassau County, New York?",
+    "gold_answer": "500-room",
+    "context": [
+      {
+        "title": "St. Paul's School (Garden City, New York)",
+        "text": "St. Paul's School is a 500-room brick edifice in the Village of Garden City, New York, United States.  As of 2010, the building is not currently used and is under threat of demolition."
+      },
+      {
+        "title": "A. T. Stewart Era Buildings",
+        "text": "A. T. Stewart Era Buildings is a national historic district located at Garden City in Nassau County, New York.  It consists of a thematic group of 50 residential, commercial, religious, and civic structures built as original elements of the planned community of Garden City between 1871 and 1893.  They were built as part of the plan for Garden City devised originally by Alexander Turney Stewart (1801–1876).  Included are 44 residences built between 1871 and 1878 and range in scale from modest cottages to large, rambling, three story frame \"villas.\"  Other buildings are: 53-55 Hilton Avenue commercial block (1875), Garden City Water Works (1876), Cathedral of the Incarnation Complex (1885), St. Paul's School (1883), Cathedral School of St. Mary (1893)"
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_5850",
+    "difficulty": "medium",
+    "question": "Charles Haughey held what position when he dissolved the list of members who were elected to the lower house of the Oireachtas of Ireland on 25 May 1989?",
+    "gold_answer": "Taoiseach of Ireland",
+    "context": [
+      {
+        "title": "Charles Haughey",
+        "text": "Charles James Haughey (16 September 1925 – 13 June 2006) was Taoiseach of Ireland, serving three terms in office (from December 1979 to June 1981, March 1982 to December 1982, and March 1987 to February 1992).  He was also the fourth leader of Fianna Fáil (from 1979 until 1992).  Haughey was first elected to Dáil Éireann as a Teachta Dála (TD) in 1957 and was re-elected in every election until 1992, representing the Dublin North-East, Dublin Artane and Dublin North-Central constituencies.  Haughey also served as Minister for Health and Social Welfare (1977–1979), Minister for Finance (1966–1970), Minister for Agriculture (1964–1966) and Minister for Justice (1961–1964).  He also served as a Parliamentary Secretary to the Minister for Justice during the early years of his parliamentary career."
+      },
+      {
+        "title": "Members of the 25th Dáil",
+        "text": "This is a list of members who were elected to the 25th Dáil Éireann, the lower house of the Oireachtas (legislature) of Ireland.  These TDs (Members of Parliament) were elected at the 1987 general election on 17 February 1987 and met on 10 March 1987.  The 25th Dáil was dissolved by President Patrick Hillery, at the request of the Taoiseach Charles Haughey on 25 May 1989.  The 25th Dáil lasted 849 days.  There were no by-elections during the 25th Dáil."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_4798",
+    "difficulty": "medium",
+    "question": "Who directed the 2015 South Korean drama film starring Hwang Jung-min?",
+    "gold_answer": "Lee Seok-hoon",
+    "context": [
+      {
+        "title": "The Himalayas (film)",
+        "text": "The Himalayas () is a 2015 South Korean drama film directed by Lee Seok-hoon.  The film was released on December 16, 2015."
+      },
+      {
+        "title": "Hwang Jung-min",
+        "text": "Hwang Jung-min (born September 1, 1970) is a South Korean actor.  He is one of the highest-grossing actors in South Korea, and has starred in several box office hits such as \"Ode to My Father\" (2014), \"Veteran\" (2015), \"The Himalayas\" (2015), \"A Violent Prosecutor\" (2015) and \"The Wailing\" (2016).  Hwang is the third actor in South Korea to be part of the \"100 Million Viewer Club\" in Chungmuro."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_3413",
+    "difficulty": "medium",
+    "question": "Who directed the movie for which Jason O'Bryan was nominated for a grammy for best soundtrack?",
+    "gold_answer": "Alfonso Cuarón",
+    "context": [
+      {
+        "title": "Jason O'Bryan",
+        "text": "Jason O'Bryan is a record producer and bassist from London, England.  He was a member of the Dub Pistols (1997–2010) and worked on the Grammy Award nominated soundtrack of the film \"Y Tu Mamá También\"."
+      },
+      {
+        "title": "Y Tu Mamá También",
+        "text": "Y Tu Mamá También (English: \"And Your Mother Too\" ) is a 2001 Mexican drama film directed by Alfonso Cuarón and co-written by Cuarón and his brother Carlos."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_3140",
+    "difficulty": "hard",
+    "question": "Produce 101, which produced I.O.I, cost the company Mnet how much to produce?",
+    "gold_answer": "about four billion won",
+    "context": [
+      {
+        "title": "Produce 101",
+        "text": "Produce 101 () is a 2016 reality girl group survival show on Mnet.  It is a large-scale project in which the public \"produces\" a unit girl group by choosing members from a pool of 101 trainees from 46 entertainment companies as well as the group's concept, debut song, and group name.  The show has the second-largest budget of all shows produced by Mnet at about four billion won (approximately $3.4 million)."
+      },
+      {
+        "title": "I.O.I",
+        "text": "I.O.I (; also known as IOI or Ideal of Idol) was a South Korean girl group formed by CJ E&M through the 2016 reality show \"Produce 101\" on Mnet.  The group was composed of eleven members chosen from a pool of 101 trainees from various entertainment companies: Lim Na-young, Kim Chung-ha, Kim Se-jeong, Jung Chae-yeon, Zhou Jieqiong, Kim So-hye, Yu Yeon-jung, Choi Yoo-jung, Kang Mi-na, Kim Do-yeon and Jeon So-mi.  They debuted on May 4, 2016 with the EP \"Chrysalis\" and actively promoted as a whole and as a sub-unit for less than a year."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_4445",
+    "difficulty": "hard",
+    "question": "For which football club, established in 1949, did Mitch Duggan have a loan spell prior to joining Tranmere Rovers?",
+    "gold_answer": "Warrington Town Football Club",
+    "context": [
+      {
+        "title": "Mitch Duggan",
+        "text": "Mitchell \"Mitch\" Duggan (born 20 March 1997) is a footballer who plays as a midfielder or wing back for Tranmere Rovers. .  He previously had loan spells at Warrington Town and Marine. ."
+      },
+      {
+        "title": "Warrington Town F.C.",
+        "text": "Warrington Town Football Club is an English football club based in Warrington, Cheshire.  They were established in 1949 under the name of Stockton Heath , adopting their current name in 1961."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0770",
+    "difficulty": "hard",
+    "question": "Peter Dhao created a websiteto reflect worldwide views. What was the slogan of the site he created ?",
+    "gold_answer": "media for the 65.8 million",
+    "context": [
+      {
+        "title": "Peter Daou",
+        "text": "Peter Daou is the creator of Verrit, the prior chief executive of Shareblue, and a member of the band The Daou."
+      },
+      {
+        "title": "Verrit",
+        "text": "The website's slogan says it is \"media for the 65.8 million,\" referring to the number of votes Hillary Clinton won in the 2016 presidential election.  Daou, an adviser to Clinton's 2008 presidential campaign, and prior chief executive of Shareblue told \"Business Insider\" that he intended the website to \"reflect the worldview\" of those who voted for Clinton and described the site as an \"online hub for Clinton backers so that they can find easy-to-share facts, stats and other information you can take out to social media when you’re having debates on key issues people are discussing\".  Daou also said the website had no financial ties to Clinton."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_3213",
+    "difficulty": "hard",
+    "question": "What is the altitude of the town in England that has Leadgate between it and Garrigill?",
+    "gold_answer": "about 1,000 ft above sea level",
+    "context": [
+      {
+        "title": "Alston, Cumbria",
+        "text": "Alston is a small town in Cumbria, England, within the civil parish of Alston Moor on the River South Tyne.  It shares the title of the 'highest market town in England', at about 1,000 ft above sea level, with Buxton, Derbyshire.  Despite being at such an altitude and in a remote location, the town is easily accessible via the many roads which link the town to Weardale valley, Teesdale, Hartside Pass (and towns in Cumbria such as Penrith) as well as the Tyne valley.  Historically part of Cumberland, Alston lies within the North Pennines, a designated Area of Outstanding Natural Beauty and is surrounded by beautiful views of the surrounding fells and the South Tyne Valley.  Much of the town centre is a designated Conservation Area which includes several listed buildings."
+      },
+      {
+        "title": "Leadgate, Cumbria",
+        "text": "Leadgate is a small hamlet located at the foot of Hartside Fell between the town of Alston and the village of Garrigill in the parish of Alston Moor in Cumbria, England."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0460",
+    "difficulty": "hard",
+    "question": " William Cammisano was part of which Mafia family?",
+    "gold_answer": "Kansas City crime family",
+    "context": [
+      {
+        "title": "William Cammisano",
+        "text": "William \"Willie Rat\" Dominick Cammisano Sr. (April 26, 1914 – January 26, 1995) was a Kansas City, Missouri, mobster and enforcer for Nicholas Civella's Kansas City crime family."
+      },
+      {
+        "title": "Kansas City crime family",
+        "text": "The Kansas City Crime Family, also known as Civella crime family (pronounced ] ), is a Mafia family based in Kansas City, Missouri."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_4333",
+    "difficulty": "hard",
+    "question": "Which award did the Tunisian-Dutch actor that starred in Collide win? ",
+    "gold_answer": "Best Actor in 2013",
+    "context": [
+      {
+        "title": "Marwan Kenzari",
+        "text": "Marwan Kenzari (born 16 January 1983) is a Tunisian-Dutch actor.  He has performed in Dutch and English language films.  He won a Golden Calf for Best Actor in 2013."
+      },
+      {
+        "title": "Collide (film)",
+        "text": "Collide is a 2016 action film directed by Eran Creevy and written by Eran Creevy and F. Scott Frazier.  The film stars Nicholas Hoult, Felicity Jones, Marwan Kenzari, Ben Kingsley, and Anthony Hopkins.  The film was released in the United States on February 24, 2017, by Open Road Films and grossed just $4 million against its $21.5 million budget."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_5460",
+    "difficulty": "hard",
+    "question": "August R. Lindt served as chairman of a UN program from 1956 to 1960 that won how many noble prizes ?",
+    "gold_answer": "two Nobel Peace Prizes",
+    "context": [
+      {
+        "title": "August R. Lindt",
+        "text": "August R. Lindt (born 5 August 1905 in Bern, died 14 April 2000 in Bern), also known as Auguste R. Lindt, was a Swiss lawyer and diplomat.  He served as Chairman of UNICEF from 1953 to 1954 and as United Nations High Commissioner for Refugees from 1956 to 1960."
+      },
+      {
+        "title": "United Nations High Commissioner for Refugees",
+        "text": "The Office of the United Nations High Commissioner for Refugees (UNHCR), also known as the UN Refugee Agency, is a United Nations programme mandated to protect and support refugees at the request of a government or the UN itself and assists in their voluntary repatriation, local integration or resettlement to a third country.  Its headquarters are in Geneva, Switzerland, and it is a member of the United Nations Development Group.  The UNHCR has won two Nobel Peace Prizes, once in 1954 and again in 1981."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_3701",
+    "difficulty": "hard",
+    "question": "Christopher I of Denmark succeeded his brother, who was king during what period?",
+    "gold_answer": "1241 until his death in 1250",
+    "context": [
+      {
+        "title": "Christopher I of Denmark",
+        "text": "Christopher I (Danish: \"Christoffer I\" ) (1219 – 29 May 1259) was King of Denmark between 1252 and 1259.  He was the son of Valdemar II of Denmark by his wife, Infanta Berengária of Portugal.  He succeeded his brothers Eric IV Plovpenning and Abel of Denmark on the throne.  Christopher was elected King upon the death of his older brother Abel in the summer of 1252.  He was crowned at Lund Cathedral on Christmas Day 1252."
+      },
+      {
+        "title": "Eric IV of Denmark",
+        "text": "Eric IV, also known as Eric Ploughpenny or Eric Plowpenny (Danish: \"Erik Plovpenning\" ), (  1216 – 10 August 1250) was king of Denmark from 1241 until his death in 1250.  He was the son of King Valdemar II by his wife, Berengaria of Portugal, and brother of King Abel and King Christopher I."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0902",
+    "difficulty": "hard",
+    "question": "What group did Carlene LeFevre and Rich LeFevre form in Brooklyn, New York City?",
+    "gold_answer": "the \"First Family of Competitive Eating\"",
+    "context": [
+      {
+        "title": "Carlene LeFevre",
+        "text": "Carlene LeFevre is a competitive eater from Henderson, Nevada.  She and her husband, Rich LeFevre, are said to form the \"First Family of Competitive Eating\" in spite of having normal weights and ages around 60, and are both top ranked members of the International Federation of Competitive Eating.  The childless couple has combined to take two of the top seven places in Nathan's Hot Dog Eating Contest in 2003, 2004, and 2005.  She is nicknamed \"The Madam of Etiquette\" for her relative degree of decorum while consuming mass quantities of food quickly.  Her trademark technique is called the \"Carlene Pop,\" in which she bounces up and down while eating to get the food to settle."
+      },
+      {
+        "title": "Nathan's Hot Dog Eating Contest",
+        "text": "The Nathan's Hot Dog Eating Contest is an annual American hot dog competitive eating competition.  It is held each year on Independence Day at Nathan's Famous Corporation's original, and best-known restaurant at the corner of Surf and Stillwell Avenues in Coney Island, a neighborhood of Brooklyn, New York City."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_3000",
+    "difficulty": "hard",
+    "question": "Where is a television transmitter located in Topeka, KS?",
+    "gold_answer": "on Windy Hill Road in Maple Hill",
+    "context": [
+      {
+        "title": "WIBW-DT2",
+        "text": "WIBW-DT2 is a primary MyNetworkTV- and secondary MeTV-affiliated television station located in Topeka, Kansas, United States.  It operates as a second digital subchannel of CBS affiliate WIBW-TV (channel 13), which is owned by Gray Television.  Over-the-air, it broadcasts a standard definition digital signal on VHF channel 13.2 from a transmitter located on Windy Hill Road in Maple Hill.  WIBW-TV maintains studio facilities located on Commerce Place (next to the interchange of I-70, I-470, US 40, US 75 and K-4) in southwestern Topeka."
+      },
+      {
+        "title": "WIBW-TV",
+        "text": "WIBW-TV, virtual and VHF digital channel 13, is a CBS-affiliated television station licensed to Topeka, Kansas, United States.  The station is owned by Gray Television.  WIBW-TV maintains studio facilities located on Commerce Place (next to the interchange of I-70, I-470, US 40, US 75 and K-4) in southwestern Topeka, and its transmitter is located on Windy Hill Road in Maple Hill.  To serve portions of the market that cannot adequately receive the main signal, WIBW-TV operates a digital fill-in translator in Topeka, WIBW-LD, which broadcasts on UHF channel 44."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_4330",
+    "difficulty": "hard",
+    "question": "What was Muammar Mohammed Abu Minyar Gaddafi's title during the Libyan Civil War?",
+    "gold_answer": "\"Brotherly Leader\" of the Great Socialist People's Libyan Arab Jamahiriya",
+    "context": [
+      {
+        "title": "Timeline of the 2011 Libyan Civil War",
+        "text": "The timeline of the Libyan Civil War begins on 15 February 2011 and ends on 20 October 2011.  It begins with a series of peaceful protests, similar to others of the Arab Spring, later becoming a full-scale civil war between the forces loyal to Muammar Gaddafi's government and the anti-Gaddafi forces.  The conflict can roughly be divided into two periods before and after external military intervention authorized by United Nations Security Council Resolution 1973."
+      },
+      {
+        "title": "Muammar Gaddafi",
+        "text": "Muammar Mohammed Abu Minyar Gaddafi ( ;    ;  1942 20 October 2011), commonly known as Colonel Gaddafi, was a Libyan revolutionary, politician, and political theorist.  He governed Libya as Revolutionary Chairman of the Libyan Arab Republic from 1969 to 1977, then as the \"Brotherly Leader\" of the Great Socialist People's Libyan Arab Jamahiriya from 1977 to 2011.  He was initially ideologically committed to Arab nationalism and Arab socialism, but later came to rule under his own Third International Theory."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_3021",
+    "difficulty": "hard",
+    "question": "The Russian route M9 forms a part of what European route that has a length of about 5320 km?",
+    "gold_answer": "European route E 22",
+    "context": [
+      {
+        "title": "European route E22",
+        "text": "The European route E 22 is one of the longest European routes.  It has a length of about 5320 km .  Many of the E-roads have been extended into Asia since the year 2000; the E 22 was extended on 24 June 2002."
+      },
+      {
+        "title": "M9 highway (Russia)",
+        "text": "The Russian route M9, also known as the \"Baltic Highway\", is a 610 km-long trunk road that leads from Moscow through Volokolamsk to Russia's border with Latvia.  The road runs north of Moscow across the towns of Krasnogorsk, Istra, Volokolamsk, Zubtsov, Rzhev, Velikiye Luki, and Sebezh, ending up at the state border.  It passes Moscow, Tver, and Pskov Oblasts.  The highway forms a part of the European route E22 which continues across the border to Rēzekne and Riga."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_6855",
+    "difficulty": "hard",
+    "question": "Which of the university at which Jack M. Guttentag  is a professor emeritus of finance was established in 1881 through a donation?",
+    "gold_answer": "Wharton School of the University",
+    "context": [
+      {
+        "title": "Jack M. Guttentag",
+        "text": "Jack M. Guttentag (born December 9, 1923) is a professor emeritus of finance at the Wharton School of the University of Pennsylvania.  He is also a consumer advocate and creator of \"The Mortgage Professor\", a website that provides free and disinterested advice to consumers on mortgage-related issues."
+      },
+      {
+        "title": "Wharton School of the University of Pennsylvania",
+        "text": "The Wharton School of the University of Pennsylvania ( ; also known as the Wharton School or simply Wharton) is the business school of the University of Pennsylvania, a private Ivy League university located in Philadelphia, Pennsylvania.  Wharton was established in 1881 through a donation from Joseph Wharton and is the world’s first collegiate school of business."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_5395",
+    "difficulty": "hard",
+    "question": "What is the electric racing series British race car driver Alex Lynn drives for and is owned by Virgin Group?",
+    "gold_answer": "DS Virgin Racing Formula E Team",
+    "context": [
+      {
+        "title": "DS Virgin Racing",
+        "text": "The DS Virgin Racing Formula E Team is a British motor racing team under ownership of Virgin Group that competes in the electric racing series, Formula E."
+      },
+      {
+        "title": "Alex Lynn",
+        "text": "Alexander George Lynn (born 17 September 1993) is a British racing driver, who is currently DS Virgin Racing reserve driver in Formula E and G-Drive Racing full-time driver in the 2017 FIA World Endurance Championship.  He finished sixth in the 2015 and 2016 GP2 Series, and won the 2017 12 Hours of Sebring."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_6163",
+    "difficulty": "hard",
+    "question": "What stadium in Pyongyang, North Korea hosted the Collision in Korea and is also known as the May Day Stadium?",
+    "gold_answer": "Rungrado 1st of May Stadium",
+    "context": [
+      {
+        "title": "Rungrado 1st of May Stadium",
+        "text": "The Rungrado 1st of May Stadium, also known as the May Day Stadium, is a multi-purpose stadium in Pyongyang, North Korea, completed on 1 May 1989.  It is the largest stadium in the world, with a total capacity of 114,000.  The site occupies an area of 20.7 ha ."
+      },
+      {
+        "title": "Collision in Korea",
+        "text": "Collision in Korea, officially known as the Pyongyang International Sports and Culture Festival for Peace (平和のための平壌国際体育・文化祝典 , Heiwa no tame no Pyon'yan kokusai taiiku bunka shukuten ) , was the largest professional wrestling pay-per-view (PPV) event in history.  It was jointly produced by World Championship Wrestling (WCW) and New Japan Pro Wrestling (NJPW), and took place over a period of two days on April 28 and 29, 1995 at May Day Stadium in Pyongyang, North Korea.  It aired in North America on August 4, 1995, when WCW broadcast a selection of matches from the show on pay-per-view."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_1978",
+    "difficulty": "hard",
+    "question": "What type of vehicle is the Blue Bird Wanderlodge which was manufactured in Georgia by the Blue Bird Corporation?",
+    "gold_answer": "Class A motorhome recreational vehicle",
+    "context": [
+      {
+        "title": "Blue Bird Wanderlodge",
+        "text": "Wanderlodge is a high end brand of Class A motorhome recreational vehicle that was built by the Blue Bird Body Company (now Blue Bird Corporation) in Fort Valley, Georgia, from about 1963 until 2009.  Production started with a 31 ft gasoline-powered forward control (front engine) model and expanded to include larger diesel engine powered pusher (rear engine) models up to 45 ft in length.  They remain highly prized by their owners and have an extensive service network."
+      },
+      {
+        "title": "Blue Bird Corporation",
+        "text": "The Blue Bird Corporation (originally known as the Blue Bird Body Company) is an American bus manufacturer headquartered in Fort Valley, Georgia.  Best known for as a manufacturer of school buses, the company has also manufactured a wide variety of other bus types, including transit buses, motorhomes, and specialty vehicles such as mobile libraries and mobile police command centers.  Currently, Blue Bird concentrates its product lineup on school and activity buses and specialty vehicle derivatives."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_3665",
+    "difficulty": "hard",
+    "question": "Who are the executive producer of the Adult Swim skit show that Odd Future had?",
+    "gold_answer": "Jeff Tremaine, Shanna Zablow, Dimitry Elyashkevich, Lance Bangs, Nick Weidenfeld and Keith Crofford",
+    "context": [
+      {
+        "title": "Odd Future",
+        "text": "Odd Future Wolf Gang Kill Them All, normally shortened to Odd Future and abbreviated to OFWGKTA (stylized OFWGK†Δ with an upside down cross), is an American hip hop collective formed in Los Angeles in 2006-07.  The collective was originally formed by Tyler, The Creator with Hodgy, Left Brain, Casey Veggies, The Super 3, and Jasper Dolphin.  Later members include Earl Sweatshirt, Frank Ocean, Domo Genesis, Mike G, and Syd.  Outside of music, Odd Future had an Adult Swim skit show called \"Loiter Squad\", a clothing line named Golf Wang, as well as a mobile app called Golf Media which contains exclusive interviews, behind the scenes clips, and cartoons.  Every year since 2012, Odd Future has held the annual Camp Flog Gnaw in Los Angeles where members of Odd Future, as well as other supporting acts, perform live and host a carnival."
+      },
+      {
+        "title": "Loiter Squad",
+        "text": "Loiter Squad was an American sketch comedy television series starring Tyler, The Creator, Jasper Dolphin, Taco Bennett, Earl Sweatshirt, and Lionel Boyce from the Los Angeles hip hop group Odd Future.  The show regularly featured other members of the group as well.  Jeff Tremaine, Shanna Zablow, Dimitry Elyashkevich, Lance Bangs, Nick Weidenfeld and Keith Crofford are the show's executive producers."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_1955",
+    "difficulty": "hard",
+    "question": "What was the original name of the theatrical program that was founded by Joseph Papp? ",
+    "gold_answer": "New York Shakespeare Festival",
+    "context": [
+      {
+        "title": "Joseph Papp",
+        "text": "Joseph \"Joe\" Papp (June 22, 1921 – October 31, 1991) was an American theatrical producer and director.  He established The Public Theater in what had been the Astor Library Building in lower Manhattan.  There, Papp created a year-round producing home to focus on new plays and musicals.  Among numerous examples of these were the works of David Rabe, Ntozake Shange's \"For Colored Girls Who Have Considered Suicide When the Rainbow Is Enuf\", Charles Gordone's \"No Place to Be Somebody\" (the first off-Broadway play to win the Pulitzer Prize), and Papp's production of Michael Bennett's Pulitzer Prize–winning musical, \"A Chorus Line\".  Papp also founded Shakespeare in the Park, helped to develop other off-Broadway theatres and worked to preserve the historic Broadway Theatre District."
+      },
+      {
+        "title": "Shakespeare in the Park (New York City)",
+        "text": "Shakespeare in the Park (or Free Shakespeare in the Park) is a theatrical program that stages productions of Shakespearean plays at the Delacorte Theater, an open-air theater in New York City's Central Park.  The theater and the productions are managed by the Public Theater and tickets are distributed free of charge on the day of the performance.  Originally branded as the New York Shakespeare Festival (NYSF) under the direction of Joseph Papp, the institution was renamed in 2002 as part of a larger reorganization by the Public Theater."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_3425",
+    "difficulty": "hard",
+    "question": "Where is the headquarter of the American multinational chemical corporation who's part is Dow AgroSciences?",
+    "gold_answer": "Midland, Michigan, United States",
+    "context": [
+      {
+        "title": "Enlist Weed Control System",
+        "text": "The Enlist Weed Control System is an agricultural system that includes seeds for genetically modified crops that are resistant to Enlist (a broadleaf herbicide with two active agents, 2,4-Dichlorophenoxyacetic acid (2,4-D) and glyphosate) and the Enlist herbicide; spraying the herbicide will kill weeds but not the resulting crop.  The system was developed by Dow AgroSciences, part of Dow Chemical Company.  In October 2014 the system was registered for restricted use in Illinois, Indiana, Iowa, Ohio, South Dakota and Wisconsin by the US Environmental Protection Agency.  In 2013, the system was approved by Canada for the same uses."
+      },
+      {
+        "title": "Dow Chemical Company",
+        "text": "The Dow Chemical Company, commonly referred to as Dow, was an American multinational chemical corporation headquartered in Midland, Michigan, United States, and the predecessor of the merged company DowDuPont.  In 2007, it was the second-largest chemical manufacturer in the world by revenue (after BASF) and as of February 2009, the third-largest chemical company in the world by market capitalization (after BASF and DuPont).  It ranked second in the world by chemical production in 2014."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_3647",
+    "difficulty": "hard",
+    "question": "The Gap band was from what neighbor hood that was known as the black wall street?",
+    "gold_answer": "Greenwood neighborhood in their hometown of Tulsa, Oklahoma",
+    "context": [
+      {
+        "title": "The Gap Band",
+        "text": "The Gap Band was an American R&B and funk band which rose to fame during the 1970s and 1980s.  With the nucleus consisting of brothers Charlie, Ronnie, and Robert Wilson.  The band is named after streets (Greenwood, Archer, and Pine) in the historic Greenwood neighborhood in their hometown of Tulsa, Oklahoma.  The group shortened its name to \"The Gap Band\" in 1973.  After 43 years together, they retired in 2010."
+      },
+      {
+        "title": "Greenwood, Tulsa",
+        "text": "Greenwood is a neighborhood in Tulsa, Oklahoma.  As one of the most prominent concentrations of African-American businesses in the United States during the early 20th century, it was popularly known as America's \"Black Wall Street\" until the Tulsa race riot of 1921, in which the Oklahoma state government with the assistance of Tulsa's white residents massacred hundreds of black residents and razed the neighborhood within hours.  The riot was one of the most devastating massacres in the history of U.S. race relations, destroying the once thriving Greenwood community."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_5799",
+    "difficulty": "hard",
+    "question": "What three states junction is near the gap that Peter Hackett traveled along during the Scotish-Irish migration along the Wilderness Road?",
+    "gold_answer": "Kentucky, Virginia, and Tennessee",
+    "context": [
+      {
+        "title": "Peter Hackett",
+        "text": "Peter Hackett was born in approximately 1763 or 1764 in the English colony of Virginia.  It is believed that Peter was the son of Thomas Hackett, likely of Montgomery County, Virginia.  As a boy Peter was bonded out to Captain James Estill, in approximately 1771, and was a part of the broad Scotch-Irish migration along the Wilderness Road through the Cumberland Gap from Virginia into what later became known as Kentucky in the late 18th century.  In 1779 he was a resident of Boonesborough, one of the first English-speaking settlements beyond the Appalachian Mountains, and lived there until 1780.  Early residents of Boonesborough included Daniel Boone, James Estill, Joseph Proctor, Nicholas Proctor, Adam Caperton, David Lynch, John Colefoot, John Moore, George Robertson, Thomas Miller, Reuben Proctor, Thomas Warren, Peter Hackett, and Thomas Watson.  In 1780 Hackett helped establish Estill's Station, Kentucky, and lived there until about 1788."
+      },
+      {
+        "title": "Cumberland Gap",
+        "text": "The Cumberland Gap is a narrow pass through the long ridge of the Cumberland Mountains, within the Appalachian Mountains, near the junction of the U.S. states of Kentucky, Virginia, and Tennessee."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_5432",
+    "difficulty": "hard",
+    "question": "Which player selected out of the University of Florida with the third pick by the Hawks was born in June 3, 1986?",
+    "gold_answer": "Alfred Joel Horford Reynoso",
+    "context": [
+      {
+        "title": "2007–08 Atlanta Hawks season",
+        "text": "The 2007–08 NBA season was the Atlanta Hawks' 59th season in the National Basketball Association, and 40th season in Atlanta.  After missing the playoffs for eight straight seasons, the Hawks selected Al Horford out of the University of Florida with the third pick in the 2007 NBA draft.  The Hawks started out the season by defeating the Dallas Mavericks 101–94 in their season opener, marking the first time they won their first game of the season since the 1999 lockout season.  However, their struggles continued as they went on a six-game losing streak around the All-Star break.  At midseason, the Hawks traded Tyronn Lue, Lorenzen Wright, Anthony Johnson and second-year forward Shelden Williams to the Sacramento Kings for Mike Bibby.  The Hawks finished third in the Southeast Division with a 37–45 record, and made the playoffs for the first time since 1999.  Joe Johnson was selected for the 2008 NBA All-Star Game, and Horford made the All-First Rookie Team.  In the first round of the playoffs, they lost to the top-seeded Boston Celtics in seven games.  Following the season, Josh Childress left to play overseas."
+      },
+      {
+        "title": "Al Horford",
+        "text": "Alfred Joel Horford Reynoso (born June 3, 1986) is a Dominican professional basketball player for the Boston Celtics of the National Basketball Association (NBA).  He played college basketball for the University of Florida, and was the starting center on the Florida Gators teams that won back-to-back NCAA national championships in 2006 and 2007.  He was drafted with the third overall pick in the 2007 NBA draft by the Atlanta Hawks, a team he played nine seasons with before joining the Celtics in 2016.  He also represents the Dominican Republic national team."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_4904",
+    "difficulty": "hard",
+    "question": "what movie starring Melissa McCarthy features a character named Slimer?",
+    "gold_answer": "Ghostbusters: Answer the Call",
+    "context": [
+      {
+        "title": "Ghostbusters (2016 film)",
+        "text": "Ghostbusters (also known as Ghostbusters: Answer the Call and marketed as such on home release) is a 2016 supernatural comedy film directed by Paul Feig and written by Feig and Katie Dippold.  The film stars Melissa McCarthy, Kristen Wiig, Kate McKinnon, Leslie Jones, Neil Casey, Andy García, Cecily Strong, and Chris Hemsworth.  It is the third feature film in the \"Ghostbusters\" franchise, and serves as a reboot of the series.  The story focuses on four women who begin a ghost-catching business in New York City.  It also marks the fourth collaboration between Feig and McCarthy."
+      },
+      {
+        "title": "Slimer",
+        "text": "Slimer is a character from the \"Ghostbusters\" franchise.  He appears in the films \"Ghostbusters\" (1984), \"Ghostbusters II\" (1989) and \"Ghostbusters: Answer the Call\" (2016), in the animated television series \"The Real Ghostbusters\", \"Slimer! \" and \"Extreme Ghostbusters\", and in the video games \"\" and Beeline's \"Ghostbusters\".  Slimer was voiced by Ivan Reitman and Adam Ray in the films and by Frank Welker in the cartoon series.  In \"The Real Ghostbusters\", he is the Ghostbusters' mascot."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_1951",
+    "difficulty": "hard",
+    "question": "Who developed the jet fighters operated by the 41st Tactical Squadron of the Polish Air Force?",
+    "gold_answer": "the Mikoyan design bureau",
+    "context": [
+      {
+        "title": "41st Tactical Squadron",
+        "text": "41st Tactical Squadron (known as 41. ELT - 41 Eskadra Lotnictwa Taktycznego in Poland) is a fighter squadron of Polish Air Force established in 2001 in Malbork, Poland.  Squadron is stationed in 22nd Air Base.  The squadron operates Mikoyan MiG-29 jet fighters acquired from the German Luftwaffe.  Previously these aircraft served with Jagdgeschwader 73 stationed at Rostock-Laage Airport.  From 1952 to 2001 unit was known as \"41.  Pułk Lotnictwa Myśliwskiego\""
+      },
+      {
+        "title": "Mikoyan MiG-29",
+        "text": "The Mikoyan MiG-29 (Russian: Микоян МиГ-29 ; NATO reporting name: Fulcrum) is a twin-engine jet fighter aircraft designed in the Soviet Union.  Developed by the Mikoyan design bureau as an air superiority fighter during the 1970s, the MiG-29, along with the larger Sukhoi Su-27, was developed to counter new American fighters such as the McDonnell Douglas F-15 Eagle, and the General Dynamics F-16 Fighting Falcon.  The MiG-29 entered service with the Soviet Air Force in 1982."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_6989",
+    "difficulty": "hard",
+    "question": "A Therapy was written and directed by what French-Polish film director who was born in Paris?",
+    "gold_answer": "Rajmund Roman Thierry Polański",
+    "context": [
+      {
+        "title": "A Therapy",
+        "text": "A Therapy is a 2012 comedy short film created by Prada to promote their brand.  The short was written and directed by Roman Polanski and starred Ben Kingsley and Helena Bonham Carter."
+      },
+      {
+        "title": "Roman Polanski",
+        "text": "Rajmund Roman Thierry Polański (born 18 August 1933) is a French-Polish film director, producer, writer, and actor.  Polanski was born in Paris, and his Polish-Jewish parents moved the family back to Poland in 1937, when he was four.  Poland was invaded by Nazi Germany to start World War II two years later in September 1939 and Polanski spent the next six years of his childhood mostly on his own, trying to survive the ongoing Holocaust."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_6770",
+    "difficulty": "hard",
+    "question": "Which film was Shannyn Sossamon in that was directed by Michael Lehmann?",
+    "gold_answer": "40 Days and 40 Nights",
+    "context": [
+      {
+        "title": "40 Days and 40 Nights",
+        "text": "40 Days and 40 Nights is a 2002 satirical erotic romantic comedy film directed by Michael Lehmann, written by Rob Perez and starring Josh Hartnett, Shannyn Sossamon and Paulo Costanzo.  The film depicts Matt Sullivan, a San Francisco web designer who has chosen to abstain from any sexual contact for the duration of Lent."
+      },
+      {
+        "title": "Shannyn Sossamon",
+        "text": "Shannon Marie Kahololani Sossamon, commonly known as Shannyn Sossamon (born October 3, 1978), is an American actress and musician.  She has appeared in the films \"A Knight's Tale\" (2001), \"40 Days and 40 Nights\", \"The Rules of Attraction\" (both 2002), \"The Order\" (2003), \"Kiss Kiss Bang Bang\" (2005) and \"The Holiday\" (2006)."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_1251",
+    "difficulty": "hard",
+    "question": "Stephen Graham starred in a film in 2006, directed by whom?",
+    "gold_answer": "directed by Shane Meadows",
+    "context": [
+      {
+        "title": "Stephen Graham",
+        "text": "Stephen Graham (born 3 August 1973) is an English film and television actor, known for his roles as Tommy in the film \" Snatch\" (2000), Andrew \"Combo\" Gascoigne in \"This Is England\" (2006) as well as its television sequels, \"This Is England '86\" (2010), \"This Is England '88\" (2011) and \"This Is England '90\" (2015), notorious bank robber Baby Face Nelson in \"Public Enemies\" (2009), Scrum in the \"Pirates of the Caribbean\" films and Al Capone in the HBO series \"Boardwalk Empire\"."
+      },
+      {
+        "title": "This Is England",
+        "text": "This Is England is a 2006 British drama film written and directed by Shane Meadows.  The story centres on young skinheads in England in 1983.  The film illustrates how their subculture, which has its roots in 1960s West Indies culture, especially ska, soul, and reggae music, became adopted by the far-right, especially white nationalists and white supremacists, which led to divisions within the skinhead scene.  The film's title is a direct reference to a scene where the character Combo explains his nationalist views using the phrase \"this is England\" during his speech."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0634",
+    "difficulty": "hard",
+    "question": "The Worst Journey in the World is a memoir written by which English explorer of Antarctica?",
+    "gold_answer": "Apsley George Benet Cherry-Garrard",
+    "context": [
+      {
+        "title": "Apsley Cherry-Garrard",
+        "text": "Apsley George Benet Cherry-Garrard (2 January 1886 – 18 May 1959) was an English explorer of Antarctica.  He was a member of the Terra Nova Expedition and is acclaimed for his historical account of this expedition, \"The Worst Journey in the World\"."
+      },
+      {
+        "title": "The Worst Journey in the World",
+        "text": "The Worst Journey in the World is a memoir of the 1910–1913 British Antarctic Expedition led by Robert Falcon Scott.  It was written and published in 1922 by a member of the expedition, Apsley Cherry-Garrard, and has earned wide praise for its frank treatment of the difficulties of the expedition, the causes of its disastrous outcome, and the meaning (if any) of human suffering under extreme conditions."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_1525",
+    "difficulty": "hard",
+    "question": "The Heart Never Lies is an album by the author of a state ballad entitled what?",
+    "gold_answer": "The Land of Enchantment",
+    "context": [
+      {
+        "title": "The Heart Never Lies (album)",
+        "text": "The Heart Never Lies is the eleventh album by American singer-songwriter Michael Martin Murphey.  The album peaked at number 27 on the \"Billboard\" Top Country Albums chart."
+      },
+      {
+        "title": "Michael Martin Murphey",
+        "text": "Michael Martin Murphey (born March 14, 1945) is an American singer-songwriter best known for writing and performing Western music, country music and popular music.  A multiple Grammy nominee, Murphey has six gold albums, including \"Cowboy Songs\", the first album of cowboy music to achieve gold status since \"Gunfighter Ballads and Trail Songs\" by Marty Robbins in 1959.  He has recorded the hit singles \"Wildfire\", \"Carolina in the Pines\", \"What's Forever For\", \"A Long Line of Love\", \"What She Wants\", \"Don't Count the Rainy Days\", and \"Maybe This Time\".  Murphey is also the author of New Mexico's state ballad, \"The Land of Enchantment\".  Murphey has become a prominent musical voice for the Western horseman, rancher, and cowboy."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_2164",
+    "difficulty": "hard",
+    "question": "The first edition of the Dungeons & Dragons Basic Set was written by a professor at what university?",
+    "gold_answer": "University of Southern California",
+    "context": [
+      {
+        "title": "John Eric Holmes",
+        "text": "John Eric Holmes M.D. (February 16, 1930 – March 20, 2010) was an associate professor of neurology at the University of Southern California School of Medicine, an author and promoter of fantasy role-playing games, a noted fan and enthusiast of Edgar Rice Burroughs, and an American writer of non-fiction, fantasy and science fiction.  His father, Wilfred \"Jasper\" Holmes was also a writer of adventure stories under the pen name Alec Hudson.  His writings appeared under his full name and under variants such as Eric Holmes and J. Eric Holmes and the pen name Sidney Leland."
+      },
+      {
+        "title": "Dungeons &amp; Dragons Basic Set",
+        "text": "The Dungeons & Dragons Basic Set is a set of rulebooks for the \"Dungeons & Dragons\" (\"D&D\") fantasy role-playing game.  First published in 1977, it saw a handful of revisions and reprintings.  The first edition was written by J. Eric Holmes based on Gary Gygax and Dave Arneson's original work.  Later editions were edited by Tom Moldvay, Dave Cook, and Frank Mentzer."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_2260",
+    "difficulty": "hard",
+    "question": "Kiskiack is a building that still stands at what York County, Virginia naval base?",
+    "gold_answer": "Naval Weapons Station Yorktown",
+    "context": [
+      {
+        "title": "Kiskiack (Lee House)",
+        "text": "Kiskiack (Lee House) is the name of an early 17th-century brick building, originally built as a private residence, which still stands at the Naval Weapons Station Yorktown in York County, Virginia.  This brick structure, the oldest building owned by the U.S. Navy, is listed on the National Register of Historic Places.  It was named for the historic Kiskiack, an Algonquian-speaking tribe of the Powhatan Confederacy, who occupied this area at the time of English colonization."
+      },
+      {
+        "title": "Naval Weapons Station Yorktown",
+        "text": "Naval Weapons Station Yorktown is a United States Navy base in York County, James City County, and Newport News in the Hampton Roads region of Virginia.  It provides a weapons and ammunition storage and loading facility for ships of the US Atlantic Fleet."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_5748",
+    "difficulty": "hard",
+    "question": "Orlando Maturana had to compete with what other Colombian retired footballer for the national football team's striker position?",
+    "gold_answer": "Adolfo José Valencia Mosquera",
+    "context": [
+      {
+        "title": "Orlando Maturana",
+        "text": "Maturana made several appearances for the senior Colombia national football team, including four matches at the 1993 Copa América.  He officially represented the Colombian national football team in 6 occasions.  He also made several appearances for the Colombian national team in unofficial games, most notably in 1993 against Bayern Munich and Palmeiras.  Orlando Maturana was a prolific and creative goal scorer who earn a reputation as a poacher.  His success in the national team was hampered by the availability of several more successful strikers such as Iván Valenciano, Antony de Ávila, John Jairo Trellez, Víctor Aristizábal, Luis Zuleta, Faustino Asprilla, Adolfo Valencia, and several other members of what is known today as the Colombian dream generation."
+      },
+      {
+        "title": "Adolfo Valencia",
+        "text": "Adolfo José Valencia Mosquera (born 6 February 1968) is a Colombian retired footballer who played as a striker."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0879",
+    "difficulty": "hard",
+    "question": "Why is Minister Pool important to Black Country and the West Midlands in England?",
+    "gold_answer": "defence of the Cathedral",
+    "context": [
+      {
+        "title": "Minster Pool",
+        "text": "Minster Pool is a reservoir located between Bird Street and Dam Street in the heart of the city of Lichfield, Staffordshire in the United Kingdom.  The pool lies directly south of Lichfield Cathedral and historically has been important to the defence of the Cathedral Close.  The pool was originally formed in the 11th century when a boggy stream was dammed at its eastern end to drive a mill on Dam Street.  The pool was used as a mill pond and fishery until 1856 when the mill was demolished; it has since been retained for public amenity."
+      },
+      {
+        "title": "Lichfield Cathedral",
+        "text": "Lichfield Cathedral is situated in Lichfield, Staffordshire, England.  It is the only medieval English cathedral with three spires.  The Diocese of Lichfield covers all of Staffordshire, much of Shropshire and part of the Black Country and West Midlands.  The 99th and current Bishop of Lichfield is Michael Ipgrave who was appointed on 10 June 2016."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_5222",
+    "difficulty": "hard",
+    "question": "What is the real name of the clock one can see on a clear day from Denmark Hill?",
+    "gold_answer": "Great Bell of the clock",
+    "context": [
+      {
+        "title": "Big Ben",
+        "text": "Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London and is usually extended to refer to both the clock and the clock tower as well.  The tower is officially known as Elizabeth Tower, renamed to celebrate the Diamond Jubilee of Elizabeth II in 2012; previously, it was known simply as the Clock Tower."
+      },
+      {
+        "title": "Denmark Hill",
+        "text": "Denmark Hill is an area and road in Camberwell, in the London Borough of Southwark.  The road forms part of the A215; north of Camberwell Green it becomes Camberwell Road; south of Red Post Hill it becomes Herne Hill.  Its postcode is SE5.  Nearby streets whose names refer to different aspects of the same topographical feature include Dog Kennel Hill, Champion Hill and Red Post Hill.  It marks the edge of the Thames valley plain in this area — from here to the river the land is flat.  There are good views across central London from vantage points (e.g. top storey windows) on the top of the hill to the north and neighbouring Dulwich to the south.  On a clear day one can read the time on the Big Ben clockface."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_5193",
+    "difficulty": "hard",
+    "question": "How long did the king who created the coins of the hawaiian dollar rule?",
+    "gold_answer": "from 1825 to 1854",
+    "context": [
+      {
+        "title": "Coins of the Hawaiian dollar",
+        "text": "In 1847, the Kingdom of Hawaiʻi, under the reign of King Kamehaheha III, issued its first official coinage—a large one-cent copper penny—to alleviate the chronic shortage of small denomination coins circulating in the Hawaiian Islands.  The next and last official coinage of the Hawaiian Islands was minted in 1883, by King Kalākaua I; however during the intervening period, the changing needs of the Hawaiian Islands were met by circulating private-issued tokens and the coins of the United States of America."
+      },
+      {
+        "title": "Kamehameha III",
+        "text": "Kamehameha III (born Kauikeaouli) (1813 – December 15, 1854) was the King of Hawaii from 1825 to 1854.  His full Hawaiian name was Keaweaweʻ ula Kīwalaʻ ō Kauikeaouli Kaleiopapa and then lengthened to Keaweaweʻ ula Kīwalaʻ ō Kauikeaouli Kaleiopapa Kalani Waiakua Kalanikau Iokikilo Kīwalaʻ ō i ke kapu Kamehameha when he ascended the throne."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_6306",
+    "difficulty": "hard",
+    "question": "The Black Star Line was a part of the Marcus Garvey movement that was also known by what names?",
+    "gold_answer": "Colonization movement or Black Zionism",
+    "context": [
+      {
+        "title": "Black Star Line",
+        "text": "The Black Star Line (1919−1922) was a shipping line incorporated by Marcus Garvey, the organizer of the Universal Negro Improvement Association (UNIA), and other members of the UNIA.  The shipping line was created to facilitate the transportation of goods and eventually African Americans throughout the African global economy.  It derived its name from the White Star Line, a line whose success Garvey felt he could duplicate.  Black Star Line became a key part of Garvey's contribution to the Back-to-Africa movement.  It was one among many businesses which the UNIA originated, such as the Universal Printing House, Negro Factories Corporation, and the widely distributed and highly successful \"Negro World\" weekly newspaper."
+      },
+      {
+        "title": "Back-to-Africa movement",
+        "text": "The Back-to-Africa movement, also known as the Colonization movement or Black Zionism, originated in the United States in the 19th century.  It encouraged those of African descent to return to the African homelands of their ancestors.  This movement would eventually inspire other movements ranging from the Nation of Islam to the Rastafari movement, and proved to be popular among African-Americans."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_7315",
+    "difficulty": "hard",
+    "question": "Where does Śivarāma Swami conduct courses on Vaishnava Theology?",
+    "gold_answer": "in the village of Aldenham",
+    "context": [
+      {
+        "title": "Sivarama Swami",
+        "text": "Śivarāma Swami (born 30 March 1949, Budapest, Hungary) is a Vaishnava guru and a religious leader for the International Society for Krishna Consciousness (ISKCON).  He is a member of the Governing Body Commission who is responsible for leading ISKCON's mission in Hungary, Romania and Turkey.  Within ISKCON, Sivarama Swami is also well known for his deep knowledge of Vaishnava literature, and has written several books about Gaudiya Vaishnavism.  He has been conducting courses at Bhaktivedanta Manor on his own commentaries to Venu Gita in Gaudiya Vaishnava Theology."
+      },
+      {
+        "title": "Bhaktivedanta Manor",
+        "text": "Bhaktivedanta Manor is a Gaudiya Vaishnava temple set in the Hertfordshire countryside of England, in the village of Aldenham near Watford.  The Manor is owned and run by the International Society for Krishna Consciousness (ISKCON), better known as the Hare Krishna movement.  It is ISKCON's largest property in the United Kingdom, and one of the most frequently visited Radha Krishna temples in Europe.  It stands in 70 acre of landscaped grounds, consisting of lawns, flower gardens, a children's playground, an artificial lake that attracts many water fowl, and a substantial car park."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_3476",
+    "difficulty": "hard",
+    "question": "Caprice No. 5 was composed by what Italian violinist, guitarist, and composer, who was the most celebrated violin virtuoso of his time?",
+    "gold_answer": "Niccolò (or Nicolò) Paganini",
+    "context": [
+      {
+        "title": "Caprice No. 5 (Paganini)",
+        "text": "Caprice No. 5 is one of 24 pieces composed by virtuoso violinist Niccolò Paganini in the early 19th century.  The piece is known for its incredible speed and extremely high technical difficulty.  Paganini is said to have been able to play it on one string, but there is no evidence to support or refute this."
+      },
+      {
+        "title": "Niccolò Paganini",
+        "text": "Niccolò (or Nicolò) Paganini (] ; 27 October 178227 May 1840) was an Italian violinist, violist, guitarist, and composer.  He was the most celebrated violin virtuoso of his time, and left his mark as one of the pillars of modern violin technique.  His 24 Caprices for Solo Violin Op. 1 are among the best known of his compositions, and have served as an inspiration for many prominent composers."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_0177",
+    "difficulty": "hard",
+    "question": "When was the Western Germanic language spoken from which the small settlement situated on the river Leda opposite Leer derives its name?",
+    "gold_answer": "between the 8th and 16th centuries",
+    "context": [
+      {
+        "title": "Old Frisian",
+        "text": "Old Frisian is a West Germanic language spoken between the 8th and 16th centuries in the area between the Rhine and Weser on the European North Sea coast.  The Frisian settlers on the coast of South Jutland (today's Northern Friesland) also spoke Old Frisian but no medieval texts of this area are known.  The language of the earlier inhabitants of the region between the Zuiderzee and Ems River (the Frisians mentioned by Tacitus) is attested in only a few personal names and place-names.  Old Frisian evolved into Middle Frisian, spoken from the 16th to the 19th century."
+      },
+      {
+        "title": "Leda (river)",
+        "text": "The Leda is a river in north-western Germany in the state of Lower Saxony.  It is a right tributary of the Ems and originates at the confluence of the Sagter Ems and the Soeste (Dreyschloot) near the town of Barßel.  The Leda flows into the Ems near the town of Leer.  On the southern bank of the Leda, in the \"Overledingen Land\" (Overledingen=\"country over the Leda\"), opposite Leer, lies the small settlement of Kloster Muhde (\"Muhde\" from the Old Frisian \"mutha\" meaning \"(river) mouth\").  The total length of the river is 29 km , of which the lower 1.9 km are navigable for sea-going vessels."
+      }
+    ]
+  },
+  {
+    "qid": "hpqa_1581",
+    "difficulty": "hard",
+    "question": "Gretchen Gotay graduated from what American public research university that is located approximately 72 miles northeast of Atlanta?",
+    "gold_answer": "The University of Georgia",
+    "context": [
+      {
+        "title": "University of Georgia",
+        "text": "The University of Georgia, also referred to as UGA or simply Georgia, is an American public research university.  Its main 762 acres campus is located in Athens, Georgia, approximately 72 mile northeast of Atlanta.  It is the flagship university of the University System of Georgia.  Founded in 1785, it is the country's oldest state-chartered university and the birthplace of the American system of public higher education."
+      },
+      {
+        "title": "Gretchen Gotay",
+        "text": "Gretchen Gotay Cordero (born August 14, 1980) is a Puerto Rican former swimmer, who specialized in freestyle and backstroke events.  She won a total of four medals (2 golds and 2 bronze) in both freestyle and medley relays at the Central American and Caribbean Games (1998, 2002, and 2006).  She is a member of Athens Bulldogs Swim Club under her personal coach Harvey Humphries, and a graduate with a master's degree in sports management at the University of Georgia in Athens."
+      }
+    ]
+  }
+]

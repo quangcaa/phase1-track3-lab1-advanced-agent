@@ -9,3 +9,4 @@ env/
 .pytest_cache/
 outputs/
 .DS_Store
+scripts/
