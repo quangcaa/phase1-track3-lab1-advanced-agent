@@ -2,10 +2,13 @@
 
 Usage:
     # Mock mode (test nhanh):
-    python run_benchmark.py --dataset data/hotpot_mini.json --out-dir outputs/mock_run --mode mock
+    python run_benchmark.py --dataset data/hotpot_benchmark.json --out-dir outputs/mock_run --mode mock
 
-    # Ollama mode (Qwen2.5-7B-Instruct):
+    # Ollama mode (Qwen3.5:9b-Instruct):
     python run_benchmark.py --dataset data/hotpot_benchmark.json --out-dir outputs/final_run --mode ollama
+
+    # OpenAI mode (GPT-4o-mini):
+    python run_benchmark.py --dataset data/hotpot_benchmark.json --out-dir outputs/openai_run --mode openai
 """
 from __future__ import annotations
 import json
@@ -22,7 +25,7 @@ app = typer.Typer(add_completion=False)
 
 @app.command()
 def main(
-    dataset: str = "data/hotpot_mini.json",
+    dataset: str = "data/hotpot_benchmark.json",
     out_dir: str = "outputs/sample_run",
     reflexion_attempts: int = 3,
     mode: str = "mock",

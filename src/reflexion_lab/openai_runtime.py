@@ -1,25 +1,30 @@
-"""LLM Runtime — Gọi Qwen2.5-7B-Instruct qua Ollama local.
+"""OpenAI Runtime — Gọi GPT-4o-mini qua OpenAI API.
 
-Thay thế mock_runtime.py khi chạy benchmark thật.
+Thay thế Ollama runtime, dùng OpenAI SDK.
 - actor_answer: gọi LLM để trả lời câu hỏi multi-hop
 - evaluator: gọi LLM để chấm điểm structured JSON
 - reflector: gọi LLM để rút bài học từ lỗi
-- Token counting thật từ Ollama response
+- Token counting thật từ OpenAI response
 - Latency đo bằng time.perf_counter()
 """
 from __future__ import annotations
 import json
+import os
 import time
-import urllib.request
-import urllib.error
 from typing import Any
+
+from dotenv import load_dotenv
+from openai import OpenAI
 
 from .schemas import QAExample, JudgeResult, ReflectionEntry
 from .prompts import ACTOR_SYSTEM, EVALUATOR_SYSTEM, REFLECTOR_SYSTEM
 from .utils import normalize_answer
 
-MODEL = "qwen3.5:9b"
-OLLAMA_URL = "http://localhost:11434/api/chat"
+# Load .env file
+load_dotenv()
+
+MODEL = "gpt-4o-mini"
+client: OpenAI | None = None
 
 # Failure mode mapping dựa trên phân tích lỗi
 FAILURE_MODES = {
@@ -31,37 +36,50 @@ FAILURE_MODES = {
 }
 
 
-def _ollama_chat(messages: list[dict], json_format: bool = False) -> dict[str, Any]:
-    """Gọi Ollama API chat endpoint.
-    
-    Returns dict với keys: message.content, prompt_eval_count, eval_count, total_duration
+def _get_client() -> OpenAI:
+    """Lazy-init OpenAI client."""
+    global client
+    if client is None:
+        api_key = os.getenv("OPENAI_API_KEY")
+        if not api_key:
+            raise ValueError(
+                "OPENAI_API_KEY chưa được set. "
+                "Hãy thêm vào file .env hoặc set environment variable."
+            )
+        client = OpenAI(api_key=api_key)
+    return client
+
+
+def _openai_chat(
+    messages: list[dict],
+    json_format: bool = False,
+    max_tokens: int = 512,
+) -> dict[str, Any]:
+    """Gọi OpenAI Chat Completions API.
+
+    Returns dict với keys: content, prompt_tokens, completion_tokens, total_tokens
     """
-    payload: dict[str, Any] = {
+    kwargs: dict[str, Any] = {
         "model": MODEL,
         "messages": messages,
-        "stream": False,
-        "options": {
-            "temperature": 0.3,
-            "num_predict": 512,
-        },
+        "temperature": 0.3,
+        "max_tokens": max_tokens,
     }
     if json_format:
-        payload["format"] = "json"
+        kwargs["response_format"] = {"type": "json_object"}
 
-    data = json.dumps(payload).encode("utf-8")
-    req = urllib.request.Request(
-        OLLAMA_URL,
-        data=data,
-        headers={"Content-Type": "application/json"},
-    )
-    try:
-        with urllib.request.urlopen(req, timeout=600) as resp:
-            return json.loads(resp.read().decode("utf-8"))
-    except urllib.error.URLError as e:
-        raise ConnectionError(
-            f"Không thể kết nối Ollama tại {OLLAMA_URL}. "
-            f"Hãy chắc chắn Ollama đang chạy (`ollama serve`). Error: {e}"
-        )
+    c = _get_client()
+    response = c.chat.completions.create(**kwargs)
+
+    choice = response.choices[0]
+    usage = response.usage
+
+    return {
+        "content": choice.message.content or "",
+        "prompt_tokens": usage.prompt_tokens if usage else 0,
+        "completion_tokens": usage.completion_tokens if usage else 0,
+        "total_tokens": usage.total_tokens if usage else 0,
+    }
 
 
 def _classify_failure_mode(reason: str) -> str:
@@ -79,8 +97,8 @@ def actor_answer(
     agent_type: str,
     reflection_memory: list[str],
 ) -> tuple[str, int, int]:
-    """Gọi Actor LLM để trả lời câu hỏi.
-    
+    """Gọi Actor LLM (GPT-4o-mini) để trả lời câu hỏi.
+
     Returns: (answer, token_count, latency_ms)
     """
     # Xây dựng context string từ các đoạn
@@ -96,7 +114,7 @@ def actor_answer(
 
     # Thêm reflection memory nếu có (chỉ cho Reflexion agent)
     if reflection_memory and agent_type == "reflexion":
-        memory_str = "\n".join(f"- {m}" for m in reflection_memory[-3:])  # Sliding window: giữ 3 bài học gần nhất
+        memory_str = "\n".join(f"- {m}" for m in reflection_memory[-3:])
         user_parts.append(f"\nReflection notes from previous attempts:\n{memory_str}")
         user_parts.append(f"\nThis is attempt #{attempt_id}. Use the reflection notes to improve your answer.")
 
@@ -108,14 +126,11 @@ def actor_answer(
     ]
 
     start = time.perf_counter()
-    response = _ollama_chat(messages, json_format=False)
+    response = _openai_chat(messages, json_format=False)
     latency_ms = int((time.perf_counter() - start) * 1000)
 
-    answer = response.get("message", {}).get("content", "").strip()
-    # Lấy token count thật từ Ollama
-    prompt_tokens = response.get("prompt_eval_count", 0)
-    completion_tokens = response.get("eval_count", 0)
-    total_tokens = prompt_tokens + completion_tokens
+    answer = response["content"].strip()
+    total_tokens = response["total_tokens"]
 
     return answer, total_tokens, latency_ms
 
@@ -124,8 +139,8 @@ def evaluator(
     example: QAExample,
     answer: str,
 ) -> tuple[JudgeResult, int, int]:
-    """Gọi Evaluator LLM để chấm điểm.
-    
+    """Gọi Evaluator LLM (GPT-4o-mini) để chấm điểm.
+
     Returns: (JudgeResult, token_count, latency_ms)
     """
     user_msg = (
@@ -141,13 +156,11 @@ def evaluator(
     ]
 
     start = time.perf_counter()
-    response = _ollama_chat(messages, json_format=True)
+    response = _openai_chat(messages, json_format=True)
     latency_ms = int((time.perf_counter() - start) * 1000)
 
-    content = response.get("message", {}).get("content", "{}")
-    prompt_tokens = response.get("prompt_eval_count", 0)
-    completion_tokens = response.get("eval_count", 0)
-    total_tokens = prompt_tokens + completion_tokens
+    content = response["content"]
+    total_tokens = response["total_tokens"]
 
     try:
         result_dict = json.loads(content)
@@ -173,8 +186,8 @@ def reflector(
     attempt_id: int,
     judge: JudgeResult,
 ) -> tuple[ReflectionEntry, int, int]:
-    """Gọi Reflector LLM để rút bài học.
-    
+    """Gọi Reflector LLM (GPT-4o-mini) để rút bài học.
+
     Returns: (ReflectionEntry, token_count, latency_ms)
     """
     user_msg = (
@@ -194,13 +207,11 @@ def reflector(
     ]
 
     start = time.perf_counter()
-    response = _ollama_chat(messages, json_format=True)
+    response = _openai_chat(messages, json_format=True)
     latency_ms = int((time.perf_counter() - start) * 1000)
 
-    content = response.get("message", {}).get("content", "{}")
-    prompt_tokens = response.get("prompt_eval_count", 0)
-    completion_tokens = response.get("eval_count", 0)
-    total_tokens = prompt_tokens + completion_tokens
+    content = response["content"]
+    total_tokens = response["total_tokens"]
 
     try:
         result_dict = json.loads(content)

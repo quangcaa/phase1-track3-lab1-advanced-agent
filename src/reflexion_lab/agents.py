@@ -1,8 +1,9 @@
 """Reflexion Agent — ReAct và Reflexion Agent với runtime toggle.
 
-Hỗ trợ 2 mode:
-- mock: dùng mock_runtime.py (test nhanh, không cần Ollama)
-- ollama: dùng llm_runtime.py (Qwen2.5-7B-Instruct qua Ollama)
+Hỗ trợ 3 mode:
+- mock: dùng mock_runtime.py (test nhanh, không cần LLM)
+- ollama: dùng llm_runtime.py (Qwen3.5-9B-Instruct qua Ollama)
+- openai: dùng openai_runtime.py (GPT-4o-mini qua OpenAI API)
 """
 from __future__ import annotations
 from dataclasses import dataclass, field
@@ -13,13 +14,14 @@ from .schemas import AttemptTrace, QAExample, ReflectionEntry, RunRecord
 # Import cả 2 runtime — chọn theo mode
 from . import mock_runtime
 from . import llm_runtime
+from . import openai_runtime
 
 
 @dataclass
 class BaseAgent:
     agent_type: Literal["react", "reflexion"]
     max_attempts: int = 1
-    mode: str = "mock"  # "mock" hoặc "ollama"
+    mode: str = "mock"  # "mock", "ollama", hoặc "openai"
 
     def run(self, example: QAExample) -> RunRecord:
         reflection_memory: list[str] = []
@@ -30,11 +32,19 @@ class BaseAgent:
 
         for attempt_id in range(1, self.max_attempts + 1):
             if self.mode == "ollama":
-                # --- LLM Runtime thật ---
+                # --- Ollama LLM Runtime ---
                 answer, actor_tokens, actor_latency = llm_runtime.actor_answer(
                     example, attempt_id, self.agent_type, reflection_memory
                 )
                 judge, eval_tokens, eval_latency = llm_runtime.evaluator(example, answer)
+                token_estimate = actor_tokens + eval_tokens
+                latency_ms = actor_latency + eval_latency
+            elif self.mode == "openai":
+                # --- OpenAI GPT-4o-mini Runtime ---
+                answer, actor_tokens, actor_latency = openai_runtime.actor_answer(
+                    example, attempt_id, self.agent_type, reflection_memory
+                )
+                judge, eval_tokens, eval_latency = openai_runtime.evaluator(example, answer)
                 token_estimate = actor_tokens + eval_tokens
                 latency_ms = actor_latency + eval_latency
             else:
@@ -67,8 +77,9 @@ class BaseAgent:
             # 1. Gọi reflector để phân tích lỗi
             # 2. Cập nhật reflection_memory để Actor dùng cho lần sau
             if self.agent_type == "reflexion" and attempt_id < self.max_attempts:
-                if self.mode == "ollama":
-                    reflection, ref_tokens, ref_latency = llm_runtime.reflector(
+                if self.mode in ("ollama", "openai"):
+                    runtime = llm_runtime if self.mode == "ollama" else openai_runtime
+                    reflection, ref_tokens, ref_latency = runtime.reflector(
                         example, attempt_id, judge
                     )
                     token_estimate += ref_tokens
@@ -99,6 +110,10 @@ class BaseAgent:
             failure_mode = "none"
         elif self.mode == "ollama":
             failure_mode = llm_runtime._classify_failure_mode(
+                traces[-1].reason if traces else ""
+            )
+        elif self.mode == "openai":
+            failure_mode = openai_runtime._classify_failure_mode(
                 traces[-1].reason if traces else ""
             )
         else:
